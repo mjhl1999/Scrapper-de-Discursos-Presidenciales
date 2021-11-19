@@ -4,7 +4,6 @@ import httplib2
 from datetime import datetime
 import os
 
-
 def get_links(link):
     http = httplib2.Http()
     status, response = http.request(link)
@@ -73,30 +72,21 @@ def get_title():
     #title = soup.find("p", {"class": "presidencia_subseccion"}).text
     return title
 
-def get_category():
-    return (soup.findAll('dd')[2].text)
-
 def get_body():
     body = soup.find("div", {"id": "nota_interna_contenido_sencillo"}).text
     #body = soup.find("div", {"id": "presidencia_contenidos_cuerpo"}).text
     #body = soup.find("div", {"class": "presidencia_contenidos_cuerpo"}).text
+    body = body.replace('\xa0', '')  #remove \xa0 lines
+    body = os.linesep.join([s for s in body.splitlines() if s])  #remove blank lines
     return body
-
 
 
 url = "https://web.archive.org/web/20121013015154/http://www.presidencia.gob.mx/2012/10/diversas-intervenciones-durante-el-primer-aniversario-de-la-procuraduria-social-de-atencion-a-las-victimas-de-delitos/"
 
-#"https://web.archive.org/web/20121011085836/http://www.presidencia.gob.mx:80/prensa/discursos"
-
-#"https://web.archive.org/web/20100326192113/http://www.presidencia.gob.mx/?DNA=109&page=1&Contenido=54693"
-#"https://web.archive.org/web/20070212171322/http://www.presidencia.gob.mx/prensa/discursos/?contenido=28952"
-#"https://web.archive.org/web/20090621063240/http://www.presidencia.gob.mx/prensa/discursos/?contenido=36703"
-#"https://web.archive.org/web/20100329042731/http://www.presidencia.gob.mx/prensa/discursos/?contenido=54755"
-
+#https://web.archive.org/web/20121011085836/http://www.presidencia.gob.mx:80/prensa/discursos
 linkPart = "https://web.archive.org/web/20121009195323/http://www.presidencia.gob.mx/prensa/discursos/page/"
 
 links = []
-l_temp = []
 
 #gets all links from all pages
 for i in range(2, 10):
@@ -104,7 +94,7 @@ for i in range(2, 10):
     if(get_links(http) != None):
         links.append(get_links(http))
 
-print(len(links)) #all links from all the speeches
+#print(len(links)) #all links from all the speeches
 
 for link in links:
     page = requests.get(link)
@@ -112,7 +102,7 @@ for link in links:
     try:
         #create .txt file
         save_path = 'FCH'
-        file_name = str(get_date())+" - "+get_title()
+        file_name = str(get_date())+" - "+get_title()+".txt"
         completeName = os.path.join(save_path, file_name)
         f= open(completeName,"w+")
         f.write(get_body())
