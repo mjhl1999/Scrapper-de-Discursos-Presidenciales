@@ -11,19 +11,24 @@ def get_links(link):
 
     for link in bs(response, parse_only=SoupStrainer('a')):
         if link.has_attr('href'):
-            if link['href'].startswith('/epn/prensa/'):
+            if link['href'].startswith('https://web.archive.org/web/201'):
                 l = link['href']
                 links.append(str(l))
 
 
 def get_date():
-    date = soup.findAll('p')[4].text.replace(" de","")
-    #soup.findAll('p')[4].text
+    date = soup.find("div", {"class": "fecha"}).text.replace(" de","")
+    #date = soup.find("div", {"id": "pres_fecha"}).text.replace(" de","")
+    #date = soup.find("p", {"class": "presidencia_articulos_fecha"}).text.replace(" de","")
+    #date = soup.find("div", {"class": "Fecha_listado"}).text
+
     YY = url[28:][:4]
-    MM = date.split()[2]
-    MM = monthToNum(MM)
-    DD = date.split()[1]
-    if (int(DD)<9):
+    MM = date.split()[1]
+    # MM = date.split()[2]
+    MM = monthToNum2(MM)
+    DD = date.split()[0]
+    #DD = date.split()[1]
+    if (int(DD)<10):
         DD = "0" + str(DD)
     return YY + MM + DD
 
@@ -44,27 +49,73 @@ def monthToNum(month):
             'Diciembre' : "12"
     }[month]
 
+def monthToNum2(month):
+
+    return {
+            'ene' : "01",
+            'feb' : "02",
+            'mar' : "03",
+            'abr' : "04",
+            'may' : "05",
+            'jun' : "06",
+            'jul' : "07",
+            'ago' : "08",
+            'sep' : "09",
+            'oct' : "10",
+            'nov' : "11",
+            'dic' : "12"
+    }[month]
+
 
 def get_title():
-    return (soup.findAll('p')[3].text).replace("/","")
+    title = soup.find("h2").text
+    #title = soup.find("div", {"id": "pres_titulo"}).text
+    #title = soup.find("p", {"class": "presidencia_subseccion"}).text
+    return title
 
 def get_category():
     return (soup.findAll('dd')[2].text)
 
 def get_body():
-    return soup.findAll('div')[16].text
+    body = soup.find("div", {"id": "nota_interna_contenido_sencillo"}).text
+    #body = soup.find("div", {"id": "presidencia_contenidos_cuerpo"}).text
+    #body = soup.find("div", {"class": "presidencia_contenidos_cuerpo"}).text
+    return body
 
 
-url = "https://web.archive.org/web/20070213004358/http://www.presidencia.gob.mx/prensa/discursos/?contenido=28314"
-page = requests.get(url)
-soup = bs(page.content, "html.parser")
-body = soup.findAll('div')[16].text
-print(get_date()) #full page
 
-#create .txt file
-save_path = 'FCH'
-file_name = str(get_date())+" - "+get_title()
-completeName = os.path.join(save_path, file_name)
-f= open(completeName,"w+")
-f.write(get_body())
-f.close()
+url = "https://web.archive.org/web/20121013015154/http://www.presidencia.gob.mx/2012/10/diversas-intervenciones-durante-el-primer-aniversario-de-la-procuraduria-social-de-atencion-a-las-victimas-de-delitos/"
+
+#"https://web.archive.org/web/20121011085836/http://www.presidencia.gob.mx:80/prensa/discursos"
+
+#"https://web.archive.org/web/20100326192113/http://www.presidencia.gob.mx/?DNA=109&page=1&Contenido=54693"
+#"https://web.archive.org/web/20070212171322/http://www.presidencia.gob.mx/prensa/discursos/?contenido=28952"
+#"https://web.archive.org/web/20090621063240/http://www.presidencia.gob.mx/prensa/discursos/?contenido=36703"
+#"https://web.archive.org/web/20100329042731/http://www.presidencia.gob.mx/prensa/discursos/?contenido=54755"
+
+linkPart = "https://web.archive.org/web/20121009195323/http://www.presidencia.gob.mx/prensa/discursos/page/"
+
+links = []
+l_temp = []
+
+#gets all links from all pages
+for i in range(2, 10):
+    http = "linkPart + str(i) + "/""
+    if(get_links(http) != None):
+        links.append(get_links(http))
+
+print(len(links)) #all links from all the speeches
+
+for link in links:
+    page = requests.get(link)
+    soup = bs(page.content, "html.parser")
+    try:
+        #create .txt file
+        save_path = 'FCH'
+        file_name = str(get_date())+" - "+get_title()
+        completeName = os.path.join(save_path, file_name)
+        f= open(completeName,"w+")
+        f.write(get_body())
+        f.close()
+    except:
+        pass
