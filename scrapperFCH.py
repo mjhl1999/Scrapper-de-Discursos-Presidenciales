@@ -3,25 +3,45 @@ import requests
 import httplib2
 from datetime import datetime
 import os
+import unicodedata
+
+def get_next_meta_link(link):
+    meta_l = soup.find('td', {'class':'b'})
+    if (meta_l != None):
+        for a in meta_l.find_all('a'):
+                return (a.get('href')) #for getting link
+    else:
+        print("None:" + link)
+        return ""
+
+def get_meta_links(url):
+    initial_link = url
+    temp_link = initial_link
+    for i in range(0,20):
+        if(temp_link != ""):
+            meta_links.append(temp_link)
+            temp_link = get_next_meta_link(temp_link)
 
 def get_links(link):
     http = httplib2.Http()
     status, response = http.request(link)
 
-    for link in bs(response, parse_only=SoupStrainer('a')):
+    l_temp = []
+
+    for link in bs(response, 'html.parser', parse_only=SoupStrainer('a')):
         if link.has_attr('href'):
-            if link['href'].startswith('https://web.archive.org/web/201'):
+            if link['href'].startswith('https'):
                 l = link['href']
                 links.append(str(l))
 
 
-def get_date():
+def get_date(link):
     date = soup.find("div", {"class": "fecha"}).text.replace(" de","")
     #date = soup.find("div", {"id": "pres_fecha"}).text.replace(" de","")
     #date = soup.find("p", {"class": "presidencia_articulos_fecha"}).text.replace(" de","")
     #date = soup.find("div", {"class": "Fecha_listado"}).text
 
-    YY = url[28:][:4]
+    YY = link[28:][:4]
     MM = date.split()[1]
     # MM = date.split()[2]
     MM = monthToNum2(MM)
@@ -77,35 +97,55 @@ def get_body():
     #body = soup.find("div", {"id": "presidencia_contenidos_cuerpo"}).text
     #body = soup.find("div", {"class": "presidencia_contenidos_cuerpo"}).text
     body = body.replace('\xa0', '')  #remove \xa0 lines
+    body = body.replace('Video completo del evento', '')
     body = os.linesep.join([s for s in body.splitlines() if s])  #remove blank lines
     return body
 
 
-url = "https://web.archive.org/web/20121013015154/http://www.presidencia.gob.mx/2012/10/diversas-intervenciones-durante-el-primer-aniversario-de-la-procuraduria-social-de-atencion-a-las-victimas-de-delitos/"
+url = "https://web.archive.org/web/20111226200313/http://www.presidencia.gob.mx/prensa/discursos"
 
-#https://web.archive.org/web/20121011085836/http://www.presidencia.gob.mx:80/prensa/discursos
-linkPart = "https://web.archive.org/web/20121009195323/http://www.presidencia.gob.mx/prensa/discursos/page/"
+page = requests.get(url)
+soup = bs(page.content, "html.parser")
+
+meta_links = []
+
+get_meta_links(url)
+
+
+meta_links = list(set(meta_links))
+
+print(meta_links)
 
 links = []
 
 #gets all links from all pages
-for i in range(2, 10):
-    http = "linkPart + str(i) + "/""
-    if(get_links(http) != None):
-        links.append(get_links(http))
+for meta_link in meta_links:
+    http = meta_link
+    m_links = get_links(http)
+    if(m_links != None):
+        links.append(m_links)
 
-#print(len(links)) #all links from all the speeches
+#print(links) #all links from all the speeches
 
+links = list(set(links))
+
+counter = 0
+len = len(links)
 for link in links:
+    print(str(counter) + " " + str(len))
     page = requests.get(link)
     soup = bs(page.content, "html.parser")
+    counter = counter+1
     try:
+        print(link)
         #create .txt file
         save_path = 'FCH'
-        file_name = str(get_date())+" - "+get_title()+".txt"
+        file_name = str(get_date(link))+" - "+get_title()+".txt"
         completeName = os.path.join(save_path, file_name)
         f= open(completeName,"w+")
         f.write(get_body())
         f.close()
     except:
         pass
+
+print(meta_links[-1])
