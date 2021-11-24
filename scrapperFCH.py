@@ -4,23 +4,7 @@ import httplib2
 from datetime import datetime
 import os
 import unicodedata
-
-def get_next_meta_link(link):
-    meta_l = soup.find('td', {'class':'b'})
-    if (meta_l != None):
-        for a in meta_l.find_all('a'):
-                return (a.get('href')) #for getting link
-    else:
-        print("None:" + link)
-        return ""
-
-def get_meta_links(url):
-    initial_link = url
-    temp_link = initial_link
-    for i in range(0,20):
-        if(temp_link != ""):
-            meta_links.append(temp_link)
-            temp_link = get_next_meta_link(temp_link)
+import json
 
 def get_links(link):
     http = httplib2.Http()
@@ -102,35 +86,34 @@ def get_body():
     return body
 
 
-url = "https://web.archive.org/web/20111226200313/http://www.presidencia.gob.mx/prensa/discursos"
+my_file_handle=open("calendar_grid_2012.txt","r")
+file = my_file_handle.read()
 
-page = requests.get(url)
-soup = bs(page.content, "html.parser")
+calendar_links = file.split();
 
-meta_links = []
+json.dumps(calendar_links)
 
-get_meta_links(url)
-
-
-meta_links = list(set(meta_links))
-
-print(meta_links)
+print(calendar_links)
 
 links = []
 
-#gets all links from all pages
-for meta_link in meta_links:
-    http = meta_link
-    m_links = get_links(http)
-    if(m_links != None):
-        links.append(m_links)
+for calendar_link in calendar_links:
 
-#print(links) #all links from all the speeches
+    linkPart = calendar_link
+    print("entro")
+    #gets all links from all pages
+    for i in range(2, 10):
+        http = linkPart + "page/"+ str(i) + "/"
+        if(get_links(http) != None):
+            links.append(get_links(http))
 
-links = list(set(links))
+links = set(links)
+
+print(links) #all links from all the speeches
 
 counter = 0
 len = len(links)
+
 for link in links:
     print(str(counter) + " " + str(len))
     page = requests.get(link)
@@ -147,5 +130,3 @@ for link in links:
         f.close()
     except:
         pass
-
-print(meta_links[-1])
