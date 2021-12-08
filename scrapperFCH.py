@@ -14,7 +14,7 @@ def get_links(link):
 
     for link in bs(response, 'html.parser', parse_only=SoupStrainer('a')):
         if link.has_attr('href'):
-            if link['href'].startswith('https'):
+            if "www.presidencia.gob.mx/2011/" in link['href']:
                 l = link['href']
                 links.append(str(l))
 
@@ -31,8 +31,8 @@ def get_date(link):
     MM = monthToNum2(MM)
     DD = date.split()[0]
     #DD = date.split()[1]
-    if (int(DD)<10):
-        DD = "0" + str(DD)
+    # if (len(DD)<2):
+    #     DD = "0" + str(DD)
     return YY + MM + DD
 
 def monthToNum(month):
@@ -86,7 +86,7 @@ def get_body():
     return body
 
 
-my_file_handle=open("calendar_grid_2012.txt","r")
+my_file_handle=open("calendar_grid_2011.txt","r")
 file = my_file_handle.read()
 
 calendar_links = file.split();
@@ -98,7 +98,6 @@ print(calendar_links)
 links = []
 
 for calendar_link in calendar_links:
-
     linkPart = calendar_link
     print("entro")
     #gets all links from all pages
@@ -106,6 +105,14 @@ for calendar_link in calendar_links:
         http = linkPart + "page/"+ str(i) + "/"
         if(get_links(http) != None):
             links.append(get_links(http))
+
+
+
+for calendar_link in calendar_links:
+    print("entro")
+    http = calendar_link
+    if(get_links(http) != None):
+        links.append(get_links(http))
 
 links = set(links)
 
@@ -122,7 +129,7 @@ for link in links:
     try:
         print(link)
         #create .txt file
-        save_path = 'FCH'
+        save_path = 'FCH2'
         file_name = str(get_date(link))+" - "+get_title()+".txt"
         completeName = os.path.join(save_path, file_name)
         f= open(completeName,"w+")
