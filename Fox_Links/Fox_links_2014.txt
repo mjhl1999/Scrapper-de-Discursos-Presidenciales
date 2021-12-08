@@ -1,0 +1,607 @@
+<html lang="en"><head><style type="text/css">svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.225em;
+}
+.svg-inline--fa.fa-w-1 {
+  width: 0.0625em;
+}
+.svg-inline--fa.fa-w-2 {
+  width: 0.125em;
+}
+.svg-inline--fa.fa-w-3 {
+  width: 0.1875em;
+}
+.svg-inline--fa.fa-w-4 {
+  width: 0.25em;
+}
+.svg-inline--fa.fa-w-5 {
+  width: 0.3125em;
+}
+.svg-inline--fa.fa-w-6 {
+  width: 0.375em;
+}
+.svg-inline--fa.fa-w-7 {
+  width: 0.4375em;
+}
+.svg-inline--fa.fa-w-8 {
+  width: 0.5em;
+}
+.svg-inline--fa.fa-w-9 {
+  width: 0.5625em;
+}
+.svg-inline--fa.fa-w-10 {
+  width: 0.625em;
+}
+.svg-inline--fa.fa-w-11 {
+  width: 0.6875em;
+}
+.svg-inline--fa.fa-w-12 {
+  width: 0.75em;
+}
+.svg-inline--fa.fa-w-13 {
+  width: 0.8125em;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
+.svg-inline--fa.fa-w-15 {
+  width: 0.9375em;
+}
+.svg-inline--fa.fa-w-16 {
+  width: 1em;
+}
+.svg-inline--fa.fa-w-17 {
+  width: 1.0625em;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+.svg-inline--fa.fa-w-19 {
+  width: 1.1875em;
+}
+.svg-inline--fa.fa-w-20 {
+  width: 1.25em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-border {
+  height: 1.5em;
+}
+.svg-inline--fa.fa-li {
+  width: 2em;
+}
+.svg-inline--fa.fa-fw {
+  width: 1.25em;
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: #ff253a;
+  border-radius: 1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #fff;
+  height: 1.5em;
+  line-height: 1;
+  max-width: 5em;
+  min-width: 1.5em;
+  overflow: hidden;
+  padding: 0.25em;
+  right: 0;
+  text-overflow: ellipsis;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: 0;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  right: 0;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: 0;
+  right: auto;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.fa-pull-left {
+  float: left;
+}
+
+.fa-pull-right {
+  float: right;
+}
+
+.fa.fa-pull-left,
+.fas.fa-pull-left,
+.far.fa-pull-left,
+.fal.fa-pull-left,
+.fab.fa-pull-left {
+  margin-right: 0.3em;
+}
+.fa.fa-pull-right,
+.fas.fa-pull-right,
+.far.fa-pull-right,
+.fal.fa-pull-right,
+.fab.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8);
+}
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none;
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: #fff;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse {
+  color: #fff;
+}</style><style>body {transition: opacity ease-in 0.2s; }
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+</style>
+    <title>Wayback Machine</title>
+    <script>
+    /*
+    @licstart  The following is the entire license notice for the JavaScript code in this page.
+
+    Copyright (C) 2020 Internet Archive
+
+    The JavaScript code in this page is free software: you can
+    redistribute it and/or modify it under the terms of the GNU Affero
+    General Public License as published by the Free Software
+    Foundation, either version 3 of the License, or (at your option)
+    any later version.  The code is distributed WITHOUT ANY WARRANTY;
+    without even the implied warranty of MERCHANTABILITY or FITNESS
+    FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+    As additional permission under GNU AGPL version 3 section 7, you
+    may distribute non-source (e.g., minimized or compacted) forms of
+    that code without the copy of the GNU AGPL normally required by
+    section 4, provided you include this license notice and a URL
+    through which recipients can access the Corresponding Source.
+
+    @licend  The above is the entire license notice for the JavaScript code in this page.
+    */
+    </script>
+    <script type="text/javascript">
+      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+    <script src="https://polyfill.archive.org/v3/polyfill.min.js?features=fetch%2CIntersectionObserver%2CResizeObserver%2CglobalThis%2CElement.prototype.getAttributeNames%2CString.prototype.startsWith"></script>
+    <script src="//archive.org/includes/build/npm/jquery/dist/jquery.min.js?v1.12.4" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui-dist/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/bootstrap/dist/js/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=2ae87d07" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=2ae87d07" rel="stylesheet" type="text/css">
+    <meta property="mediatype" content="">
+    <meta property="primary_collection" content="">
+    <script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web/sitemap';v.service='wb';v.server_name='wwwb-app210.us.archive.org';v.server_ms=59;archive_analytics.send_pageview_on_load()}</script>
+    <link href="/_static/images/archive.ico" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/styles.css?v=TN3GQxFf">
+    <base target="_top">
+    <link href="/_static/css/web.css" rel="stylesheet" type="text/css">
+    <!-- include component js and css -->
+    <link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/vendors~main.f8de30afe63382400f42.chunk.css">
+<link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/main.2cdb328382d6bf20ab95.chunk.css">
+<script src="/static/bower_components/wayback-search-js/dist/runtime.f23138e1489064881544.js"></script>
+<script src="/static/bower_components/wayback-search-js/dist/vendors~main.f8de30afe63382400f42.chunk.js"></script>
+<script src="/static/bower_components/wayback-search-js/dist/main.2cdb328382d6bf20ab95.chunk.js"></script>
+    <script src="https://archive.org/web/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?v6.2.1" type="text/javascript"></script>
+    <style>
+      html, body { margin:0; padding:0 }
+      #faux-header {
+        height: 50px;
+        width: 100%;
+        margin:0;
+        background-color:black;
+      }
+      #react-wayback-search {
+        max-width: 1170px;
+        margin: 0 auto;
+        padding: 10px;
+      }
+    </style>
+  <link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/vendors~sitemap.c08f8b6555064bc6a16f.chunk.css"><script charset="utf-8" src="/static/bower_components/wayback-search-js/dist/vendors~sitemap.c08f8b6555064bc6a16f.chunk.js"></script><link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/sitemap.6b71661805a9cf337120.chunk.css"><script charset="utf-8" src="/static/bower_components/wayback-search-js/dist/sitemap.6b71661805a9cf337120.chunk.js"></script></head>
+  <body class="navia">
+
+                    <div class="ia-banners">
+              <div class="ia-banner hidden outage-2021-10-27 visible" data-campaign="outage-2021-10-27">
+        <p></p>
+        <form class="banner-close" action="" method="get" data-action="ia-banner-close">
+          <fieldset>
+            <button aria-label="Close Banner" type="submit"></button>
+          </fieldset>
+        </form>
+      </div>
+          </div>
+                    <div id="topnav">
+                    <ia-topnav secondidentityslotmode="allow" basehost="https://archive.org" mediabasehost="https://archive.org" username="" userprofilelastmodified="" screenname="" searchquery="" config="eyJ1cGxvYWRVUkwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2NyZWF0ZSIsImV2ZW50Q2F0ZWdvcnkiOiJUb3BOYXYiLCJ3YXliYWNrUGFnZXNBcmNoaXZlZCI6IjYzNSBiaWxsaW9uIn0=" menus="eyJhdWRpbyI6eyJoZWFkaW5nIjoiSW50ZXJuZXQgQXJjaGl2ZSBBdWRpbyIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvZXRyZWUiLCJ0aXRsZSI6IkxpdmUgTXVzaWMgQXJjaGl2ZSIsInVybCI6IlwvZGV0YWlsc1wvZXRyZWUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2xpYnJpdm94YXVkaW8iLCJ0aXRsZSI6IkxpYnJpdm94IEZyZWUgQXVkaW8iLCJ1cmwiOiJcL2RldGFpbHNcL2xpYnJpdm94YXVkaW8ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIEF1ZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpbyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmF1ZGlvJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiR3JhdGVmdWwgRGVhZCIsInVybCI6IlwvZGV0YWlsc1wvR3JhdGVmdWxEZWFkIn0seyJ0aXRsZSI6Ik5ldGxhYmVscyIsInVybCI6IlwvZGV0YWlsc1wvbmV0bGFiZWxzIn0seyJ0aXRsZSI6Ik9sZCBUaW1lIFJhZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9vbGR0aW1lcmFkaW8ifSx7InRpdGxlIjoiNzggUlBNcyBhbmQgQ3lsaW5kZXIgUmVjb3JkaW5ncyIsInVybCI6IlwvZGV0YWlsc1wvNzhycG0ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkF1ZGlvIEJvb2tzICYgUG9ldHJ5IiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19ib29rc3BvZXRyeSJ9LHsidGl0bGUiOiJDb21wdXRlcnMsIFRlY2hub2xvZ3kgYW5kIFNjaWVuY2UiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3RlY2gifSx7InRpdGxlIjoiTXVzaWMsIEFydHMgJiBDdWx0dXJlIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19tdXNpYyJ9LHsidGl0bGUiOiJOZXdzICYgUHVibGljIEFmZmFpcnMiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX25ld3MifSx7InRpdGxlIjoiTm9uLUVuZ2xpc2ggQXVkaW8iLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX2ZvcmVpZ24ifSx7InRpdGxlIjoiU3Bpcml0dWFsaXR5ICYgUmVsaWdpb24iLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3JlbGlnaW9uIn0seyJ0aXRsZSI6IlBvZGNhc3RzIiwidXJsIjoiXC9kZXRhaWxzXC9wb2RjYXN0cyJ9LHsidGl0bGUiOiJBdWRpbyBMaWJyYXJ5IGFuZCBUYWxraW5nIEJvb2tzIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb2xpYnJhcnkifSx7InRpdGxlIjoiUmFkaW8gTmV3cyBBcmNoaXZlIiwidXJsIjoiXC9kZXRhaWxzXC9yYWRpbyJ9XX0sImltYWdlcyI6eyJoZWFkaW5nIjoiSW1hZ2VzIiwiaWNvbkxpbmtzIjpbeyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9tZXRyb3BvbGl0YW5tdXNldW1vZmFydC1nYWxsZXJ5IiwidGl0bGUiOiJNZXRyb3BvbGl0YW4gTXVzZXVtIiwidXJsIjoiXC9kZXRhaWxzXC9tZXRyb3BvbGl0YW5tdXNldW1vZmFydC1nYWxsZXJ5In0seyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9icm9va2x5bm11c2V1bSIsInRpdGxlIjoiQnJvb2tseW4gTXVzZXVtIiwidXJsIjoiXC9kZXRhaWxzXC9icm9va2x5bm11c2V1bSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgSW1hZ2VzIiwidXJsIjoiXC9kZXRhaWxzXC9pbWFnZSJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmltYWdlJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiRmxpY2tyIENvbW1vbnMiLCJ1cmwiOiJcL2RldGFpbHNcL2ZsaWNrcmNvbW1vbnMifSx7InRpdGxlIjoiT2NjdXB5IFdhbGwgU3RyZWV0IEZsaWNrciIsInVybCI6IlwvZGV0YWlsc1wvZmxpY2tyLW93cyJ9LHsidGl0bGUiOiJDb3ZlciBBcnQiLCJ1cmwiOiJcL2RldGFpbHNcL2NvdmVyYXJ0YXJjaGl2ZSJ9LHsidGl0bGUiOiJVU0dTIE1hcHMiLCJ1cmwiOiJcL2RldGFpbHNcL21hcHNfdXNncyJ9XSwibGlua3MiOlt7InRpdGxlIjoiTkFTQSBJbWFnZXMiLCJ1cmwiOiJcL2RldGFpbHNcL25hc2EifSx7InRpdGxlIjoiU29sYXIgU3lzdGVtIENvbGxlY3Rpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NvbGFyc3lzdGVtY29sbGVjdGlvbiJ9LHsidGl0bGUiOiJBbWVzIFJlc2VhcmNoIENlbnRlciIsInVybCI6IlwvZGV0YWlsc1wvYW1lc3Jlc2VhcmNoY2VudGVyaW1hZ2VsaWJyYXJ5In1dfSwibW9yZSI6W3sidGl0bGUiOiJBYm91dCIsInVybCI6IlwvYWJvdXRcLyJ9LHsidGl0bGUiOiJCbG9nIiwidXJsIjoiaHR0cHM6XC9cL2Jsb2cuYXJjaGl2ZS5vcmdcLyJ9LHsidGl0bGUiOiJQcm9qZWN0cyIsInVybCI6IlwvcHJvamVjdHNcLyJ9LHsidGl0bGUiOiJIZWxwIiwidXJsIjoiXC9hYm91dFwvZmFxcy5waHAifSx7InRpdGxlIjoiRG9uYXRlIiwidXJsIjoiXC9kb25hdGU/b3JpZ2luPXdid3d3LVRvcE5hdkRvbmF0ZUJ1dHRvbiJ9LHsidGl0bGUiOiJDb250YWN0IiwidXJsIjoiXC9hYm91dFwvY29udGFjdC5waHAifSx7InRpdGxlIjoiSm9icyIsInVybCI6IlwvYWJvdXRcL2pvYnMucGhwIn0seyJ0aXRsZSI6IlZvbHVudGVlciIsInVybCI6IlwvYWJvdXRcL3ZvbHVudGVlcnBvc2l0aW9ucy5waHAifSx7InRpdGxlIjoiUGVvcGxlIiwidXJsIjoiXC9hYm91dFwvYmlvcy5waHAifV0sInNvZnR3YXJlIjp7ImhlYWRpbmciOiJTb2Z0d2FyZSIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvaW50ZXJuZXRhcmNhZGUiLCJ0aXRsZSI6IkludGVybmV0IEFyY2FkZSIsInVybCI6IlwvZGV0YWlsc1wvaW50ZXJuZXRhcmNhZGUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2NvbnNvbGVsaXZpbmdyb29tIiwidGl0bGUiOiJDb25zb2xlIExpdmluZyBSb29tIiwidXJsIjoiXC9kZXRhaWxzXC9jb25zb2xlbGl2aW5ncm9vbSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgU29mdHdhcmUiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Ilwvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6c29mdHdhcmUmc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJPbGQgU2Nob29sIEVtdWxhdGlvbiIsInVybCI6IlwvZGV0YWlsc1wvdG9zZWMifSx7InRpdGxlIjoiTVMtRE9TIEdhbWVzIiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnlfbXNkb3NfZ2FtZXMifSx7InRpdGxlIjoiSGlzdG9yaWNhbCBTb2Z0d2FyZSIsInVybCI6IlwvZGV0YWlsc1wvaGlzdG9yaWNhbHNvZnR3YXJlIn0seyJ0aXRsZSI6IkNsYXNzaWMgUEMgR2FtZXMiLCJ1cmwiOiJcL2RldGFpbHNcL2NsYXNzaWNwY2dhbWVzIn0seyJ0aXRsZSI6IlNvZnR3YXJlIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeSJ9XSwibGlua3MiOlt7InRpdGxlIjoiS29kaSBBcmNoaXZlIGFuZCBTdXBwb3J0IEZpbGUiLCJ1cmwiOiJcL2RldGFpbHNcL2tvZGlfYXJjaGl2ZSJ9LHsidGl0bGUiOiJWaW50YWdlIFNvZnR3YXJlIiwidXJsIjoiXC9kZXRhaWxzXC92aW50YWdlc29mdHdhcmUifSx7InRpdGxlIjoiQVBLIiwidXJsIjoiXC9kZXRhaWxzXC9hcGthcmNoaXZlIn0seyJ0aXRsZSI6Ik1TLURPUyIsInVybCI6IlwvZGV0YWlsc1wvc29mdHdhcmVsaWJyYXJ5X21zZG9zIn0seyJ0aXRsZSI6IkNELVJPTSBTb2Z0d2FyZSIsInVybCI6IlwvZGV0YWlsc1wvY2Qtcm9tcyJ9LHsidGl0bGUiOiJDRC1ST00gU29mdHdhcmUgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvY2Ryb21zb2Z0d2FyZSJ9LHsidGl0bGUiOiJTb2Z0d2FyZSBTaXRlcyIsInVybCI6IlwvZGV0YWlsc1wvc29mdHdhcmVzaXRlcyJ9LHsidGl0bGUiOiJUdWNvd3MgU29mdHdhcmUgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvdHVjb3dzIn0seyJ0aXRsZSI6IlNoYXJld2FyZSBDRC1ST01zIiwidXJsIjoiXC9kZXRhaWxzXC9jZGJic2FyY2hpdmUifSx7InRpdGxlIjoiU29mdHdhcmUgQ2Fwc3VsZXMgQ29tcGlsYXRpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlY2Fwc3VsZXMifSx7InRpdGxlIjoiQ0QtUk9NIEltYWdlcyIsInVybCI6IlwvZGV0YWlsc1wvY2Ryb21pbWFnZXMifSx7InRpdGxlIjoiWlggU3BlY3RydW0iLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeV96eF9zcGVjdHJ1bSJ9LHsidGl0bGUiOiJET09NIExldmVsIENEIiwidXJsIjoiXC9kZXRhaWxzXC9kb29tLWNkcyJ9XX0sInRleHRzIjp7ImhlYWRpbmciOiJCb29rcyIsImljb25MaW5rcyI6W3sidGl0bGUiOiJCb29rcyB0byBCb3Jyb3ciLCJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9pbmxpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL2lubGlicmFyeSJ9LHsidGl0bGUiOiJPcGVuIExpYnJhcnkiLCJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9pbWFnZXNcL3dpZGdldE9MLnBuZyIsInVybCI6Imh0dHBzOlwvXC9vcGVubGlicmFyeS5vcmdcLyJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgQm9va3MiLCJ1cmwiOiJcL2RldGFpbHNcL2Jvb2tzIn0seyJ0aXRsZSI6IkFsbCBUZXh0cyIsInVybCI6IlwvZGV0YWlsc1wvdGV4dHMifSx7InRpdGxlIjoiVGhpcyBKdXN0IEluIiwidXJsIjoiXC9zZWFyY2gucGhwP3F1ZXJ5PW1lZGlhdHlwZTp0ZXh0cyZzb3J0PS1wdWJsaWNkYXRlIn0seyJ0aXRsZSI6IlNtaXRoc29uaWFuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvc21pdGhzb25pYW4ifSx7InRpdGxlIjoiRkVETElOSyAoVVMpIiwidXJsIjoiXC9kZXRhaWxzXC9mZWRsaW5rIn0seyJ0aXRsZSI6IkdlbmVhbG9neSIsInVybCI6IlwvZGV0YWlsc1wvZ2VuZWFsb2d5In0seyJ0aXRsZSI6IkxpbmNvbG4gQ29sbGVjdGlvbiIsInVybCI6IlwvZGV0YWlsc1wvbGluY29sbmNvbGxlY3Rpb24ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkFtZXJpY2FuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvYW1lcmljYW5hIn0seyJ0aXRsZSI6IkNhbmFkaWFuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvdG9yb250byJ9LHsidGl0bGUiOiJVbml2ZXJzYWwgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvdW5pdmVyc2FsbGlicmFyeSJ9LHsidGl0bGUiOiJQcm9qZWN0IEd1dGVuYmVyZyIsInVybCI6IlwvZGV0YWlsc1wvZ3V0ZW5iZXJnIn0seyJ0aXRsZSI6IkNoaWxkcmVuJ3MgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvaWFjbCJ9LHsidGl0bGUiOiJCaW9kaXZlcnNpdHkgSGVyaXRhZ2UgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvYmlvZGl2ZXJzaXR5In0seyJ0aXRsZSI6IlRoZSBpbmRlcGVuZGVudCBwcmFjdGl0aW9uZXIuIiwidXJsIjoiXC9kZXRhaWxzXC9iMzE1MTYyNDUifSx7InRpdGxlIjoiQm9va3MgYnkgTGFuZ3VhZ2UiLCJ1cmwiOiJcL2RldGFpbHNcL2Jvb2tzYnlsYW5ndWFnZSJ9LHsidGl0bGUiOiJBZGRpdGlvbmFsIENvbGxlY3Rpb25zIiwidXJsIjoiXC9kZXRhaWxzXC9hZGRpdGlvbmFsX2NvbGxlY3Rpb25zIn1dfSwid2ViIjp7Im1vYmlsZUFwcHNMaW5rcyI6W3sidXJsIjoiaHR0cHM6XC9cL2FwcHMuYXBwbGUuY29tXC91c1wvYXBwXC93YXliYWNrLW1hY2hpbmVcL2lkMTIwMTg4ODMxMyIsInRpdGxlIjoiV2F5YmFjayBNYWNoaW5lIChpT1MpIiwiZXh0ZXJuYWwiOnRydWV9LHsidXJsIjoiaHR0cHM6XC9cL3BsYXkuZ29vZ2xlLmNvbVwvc3RvcmVcL2FwcHNcL2RldGFpbHM/aWQ9Y29tLmFyY2hpdmUud2F5YmFja21hY2hpbmUmaGw9ZW5fVVMiLCJ0aXRsZSI6IldheWJhY2sgTWFjaGluZSAoQW5kcm9pZCkiLCJleHRlcm5hbCI6dHJ1ZX1dLCJicm93c2VyRXh0ZW5zaW9uc0xpbmtzIjpbeyJ1cmwiOiJodHRwczpcL1wvY2hyb21lLmdvb2dsZS5jb21cL3dlYnN0b3JlXC9kZXRhaWxcL3dheWJhY2stbWFjaGluZVwvZnBubWdka2Fia21uYWRjanBlaG1sbGxrbmRwa21pYWsiLCJ0aXRsZSI6IkNocm9tZSIsImV4dGVybmFsIjp0cnVlfSx7InVybCI6Imh0dHBzOlwvXC9hZGRvbnMubW96aWxsYS5vcmdcL2VuLVVTXC9maXJlZm94XC9hZGRvblwvd2F5YmFjay1tYWNoaW5lX25ld1wvIiwidGl0bGUiOiJGaXJlZm94IiwiZXh0ZXJuYWwiOnRydWV9LHsidXJsIjoiaHR0cHM6XC9cL2FwcHMuYXBwbGUuY29tXC91c1wvYXBwXC93YXliYWNrLW1hY2hpbmVcL2lkMTQ3MjQzMjQyMj9tdD0xMiIsInRpdGxlIjoiU2FmYXJpIiwiZXh0ZXJuYWwiOnRydWV9XSwiYXJjaGl2ZUl0TGlua3MiOlt7InVybCI6Imh0dHBzOlwvXC93d3cuYXJjaGl2ZS1pdC5vcmdcL2V4cGxvcmUiLCJ0aXRsZSI6IkV4cGxvcmUgdGhlIENvbGxlY3Rpb25zIn0seyJ1cmwiOiJodHRwczpcL1wvd3d3LmFyY2hpdmUtaXQub3JnXC9ibG9nXC9sZWFybi1tb3JlXC8iLCJ0aXRsZSI6IkxlYXJuIE1vcmUifSx7InVybCI6Imh0dHBzOlwvXC93d3cuYXJjaGl2ZS1pdC5vcmdcL2NvbnRhY3QtdXMiLCJ0aXRsZSI6IkJ1aWxkIENvbGxlY3Rpb25zIn1dfSwidmlkZW8iOnsiaGVhZGluZyI6IlZpZGVvIiwiaWNvbkxpbmtzIjpbeyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC90diIsInRpdGxlIjoiVFYgTmV3cyIsInVybCI6IlwvZGV0YWlsc1wvdHYifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcLzkxMSIsInRpdGxlIjoiVW5kZXJzdGFuZGluZyA5XC8xMSIsInVybCI6IlwvZGV0YWlsc1wvOTExIn1dLCJmZWF0dXJlZExpbmtzIjpbeyJ0aXRsZSI6IkFsbCBWaWRlbyIsInVybCI6IlwvZGV0YWlsc1wvbW92aWVzIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Ilwvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6bW92aWVzJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiUHJlbGluZ2VyIEFyY2hpdmVzIiwidXJsIjoiXC9kZXRhaWxzXC9wcmVsaW5nZXIifSx7InRpdGxlIjoiRGVtb2NyYWN5IE5vdyEiLCJ1cmwiOiJcL2RldGFpbHNcL2RlbW9jcmFjeV9ub3dfdmlkIn0seyJ0aXRsZSI6Ik9jY3VweSBXYWxsIFN0cmVldCIsInVybCI6IlwvZGV0YWlsc1wvb2NjdXB5d2FsbHN0cmVldCJ9LHsidGl0bGUiOiJUViBOU0EgQ2xpcCBMaWJyYXJ5IiwidXJsIjoiXC9kZXRhaWxzXC9uc2EifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkFuaW1hdGlvbiAmIENhcnRvb25zIiwidXJsIjoiXC9kZXRhaWxzXC9hbmltYXRpb25hbmRjYXJ0b29ucyJ9LHsidGl0bGUiOiJBcnRzICYgTXVzaWMiLCJ1cmwiOiJcL2RldGFpbHNcL2FydHNhbmRtdXNpY3ZpZGVvcyJ9LHsidGl0bGUiOiJDb21wdXRlcnMgJiBUZWNobm9sb2d5IiwidXJsIjoiXC9kZXRhaWxzXC9jb21wdXRlcnNhbmR0ZWNodmlkZW9zIn0seyJ0aXRsZSI6IkN1bHR1cmFsICYgQWNhZGVtaWMgRmlsbXMiLCJ1cmwiOiJcL2RldGFpbHNcL2N1bHR1cmFsYW5kYWNhZGVtaWNmaWxtcyJ9LHsidGl0bGUiOiJFcGhlbWVyYWwgRmlsbXMiLCJ1cmwiOiJcL2RldGFpbHNcL2VwaGVtZXJhIn0seyJ0aXRsZSI6Ik1vdmllcyIsInVybCI6IlwvZGV0YWlsc1wvbW92aWVzYW5kZmlsbXMifSx7InRpdGxlIjoiTmV3cyAmIFB1YmxpYyBBZmZhaXJzIiwidXJsIjoiXC9kZXRhaWxzXC9uZXdzYW5kcHVibGljYWZmYWlycyJ9LHsidGl0bGUiOiJTcGlyaXR1YWxpdHkgJiBSZWxpZ2lvbiIsInVybCI6IlwvZGV0YWlsc1wvc3Bpcml0dWFsaXR5YW5kcmVsaWdpb24ifSx7InRpdGxlIjoiU3BvcnRzIFZpZGVvcyIsInVybCI6IlwvZGV0YWlsc1wvc3BvcnRzIn0seyJ0aXRsZSI6IlRlbGV2aXNpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3RlbGV2aXNpb24ifSx7InRpdGxlIjoiVmlkZW9nYW1lIFZpZGVvcyIsInVybCI6IlwvZGV0YWlsc1wvZ2FtZXZpZGVvcyJ9LHsidGl0bGUiOiJWbG9ncyIsInVybCI6IlwvZGV0YWlsc1wvdmxvZ3MifSx7InRpdGxlIjoiWW91dGggTWVkaWEiLCJ1cmwiOiJcL2RldGFpbHNcL3lvdXRoX21lZGlhIn1dfSwidXNlciI6W10sInNpZ25lZE91dCI6W3sidXJsIjoiXC9hY2NvdW50XC9zaWdudXAiLCJ0aXRsZSI6IlNpZ24gdXAgZm9yIGZyZWUiLCJhbmFseXRpY3NFdmVudCI6IkF2YXRhck1lbnUtU2lnbnVwIn0seyJ1cmwiOiJcL2FjY291bnRcL2xvZ2luIiwidGl0bGUiOiJMb2cgaW4iLCJhbmFseXRpY3NFdmVudCI6IkF2YXRhck1lbnUtTG9naW4ifV19">
+                        <div slot="opt-sec-logo">
+              <a class="anniv-logo-link" href="https://anniversary.archive.org" title="Celebrate Internet Archive's 25th Anniversary" style="display: flex;" data-event-click-tracking="Anniversary25|TopNavLogo">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.6 36.87" style="height: 30px;">
+                  <title>Internet Archive's 25th Anniversary Logo</title>
+                  <g id="Layer_2" data-name="Layer 2">
+                    <g id="Layer_1-2" data-name="Layer 1">
+                      <path style="fill: rgb(255, 255, 255); opacity: 1;" d="M34.4,22.86c2.59-.82,4.68-1.33,7.11-1.93,4.47-1.12,7.62-4.47,7.62-8.74,0-7-5-12.19-11.68-12.19-6.4,0-11.38,5.74-11.58,13.41h.81c1-3.35,5.29-5.89,10.57-5.89,4.87,0,8.53,2.64,8.53,6.7,0,2.44-2,4.27-5.08,5.08-2.08.56-4.21,1.12-6.3,1.63-4.92,1.16-8.33,5.18-8.33,9.54v5.9H48.73V28.85H28.61A8.39,8.39,0,0,1,34.4,22.86Zm29-8.44a13.19,13.19,0,0,0-8,2.49l-.41-.2.51-8.58h19.2V.51H54.21L53.14,18.84l1.68.71a9.45,9.45,0,0,1,1.83-1.27,13.11,13.11,0,0,1,6.5-1.82c5.68,0,9.6,2.74,9.6,6.4S68.58,29.25,63,29.25c-5.18,0-9.65-2.53-11.07-6.19h-.81C51.11,31,56,36.87,63.4,36.87c7.11,0,12.49-4.67,12.49-11.58C75.89,19,70.46,14.42,63.35,14.42ZM18.52,32.66C12.39,32.6,7.91,25.45,7.91,16.75S12.43,1.82,18.59,1.82h.05V.09C7.86.09,0,7,0,16.75s7.73,17.5,18.38,17.63H3.14v2H20.53V19h-2ZM88.64.48H79l-.35.88,25.5,17L78.61,35.44l.36.9h9.65L106.56,18.4Zm13.61,0H95.9l-.35.88,17,17-17,17.05.35.89h6.33L114.6,18.4Z"></path>
+                    </g>
+                  </g>
+                </svg>
+              </a>
+            </div>
+            <div slot="opt-sec-logo-mobile">
+              <a class="anniv-logo-link" href="https://anniversary.archive.org" title="Celebrate Internet Archive's 25th Anniversary" style="display: flex;" data-event-click-tracking="Anniversary25|TopNavLogo">
+                <svg height="30" viewBox="0 0 42 30" width="42" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m6.89441101 18.3847952c2.09337919-.6594721 3.78263109-1.0696316 5.74668959-1.5521722 3.6128977-.9007423 6.1588994-3.5949271 6.1588994-7.02900738 0-5.62963982-4.0412726-9.80361562-9.44041273-9.80361562-5.17282889 0-9.19793637 4.61630465-9.35958727 10.7847814h.65468616c.80825451-2.69418475 4.27566638-4.73693977 8.54325021-4.73693977 3.93619953 0 6.89441103 2.12317844 6.89441103 5.38836957 0 1.9623316-1.6165091 3.4340802-4.105933 4.08551-1.6811693.4503712-3.40275146.9007424-5.09200339 1.3109018-3.97661221.9329118-6.73276011 4.1659335-6.73276011 7.6723949v4.7449821h18.3150473v-6.0478416h-16.26208083c.59192357-2.3174159 2.37222905-4.1500562 4.67979364-4.8173632zm24.22752669-6.44482c-2.3496035-.0494972-4.6516613.653692-6.557606 2.0030941l-.3360773-.1608911.4180474-6.9022277h15.7382543v-6.1299505h-16.7956682l-.8770798 14.7456683 1.3770972.5711634c.4572285-.397399.960743-.7403336 1.5000524-1.0216584 1.6153611-.9360711 3.4522659-1.4408386 5.3280548-1.4641089 4.6559002 0 7.8691272 2.2042079 7.8691272 5.1485148s-3.4181521 5.1404703-7.9920823 5.1404703c-4.2460499 0-7.9101122-2.0352723-9.0740872-4.9795792h-.6639702c-.0081845 6.3873762 4.0001522 11.1095297 10.0659377 11.1095297 5.8280723 0 10.2380623-3.7568069 10.2380623-9.3155941 0-5.0600247-4.450975-8.7444307-10.2790473-8.7444307z" fill="#fff" style="opacity: 1;"></path>
+                </svg>
+              </a>
+            </div>
+                                                </ia-topnav>
+
+                  </div>
+            <input class="js-tvsearch" type="hidden" value="{&quot;ands&quot;:[],&quot;minday&quot;:&quot;06/04/2009&quot;,&quot;maxday&quot;:&quot;12/08/2021&quot;}">
+
+
+    <div style="display: block; float: right; width: 28px; margin-top: 4px;">
+        <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href), '', 'height=400,width=600'); return false;" class="social_button" title="Share on Facebook"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(window.location.href) + '&amp;via=internetarchive', '', 'height=400,width=600'); return false;" class="social_button" title="Share on Twitter"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+    </div>
+    <script>
+      var config = {"api_url_anchor": "/__wb/search/anchor?q={{query}}", "api_url_calendar_captures": "/__wb/calendarcaptures?url={{url}}\u0026selected_year={{year}}", "api_url_host": "/__wb/search/host?q={{query}}", "api_url_metadata": "/__wb/search/metadata?q={{query}}", "api_url_sitemap": "/web/timemap/json?url={{url}}/\u0026fl=timestamp:4,original,urlkey\u0026matchType=prefix\u0026filter=statuscode:200\u0026filter=mimetype:text/html\u0026collapse=urlkey\u0026collapse=timestamp:4\u0026limit=100000", "api_url_sparkline": "/__wb/sparkline?output=json\u0026url={{url}}\u0026collection=web", "bundling": {"public_path": "/static/bower_components/wayback-search-js/dist"}, "diff": {"cdxServer": "/web/timemap", "diffgraphPrefix": "/web/diffgraph/", "limit": 3000, "maxSunburstLevelLength": "70", "snapshotsPrefix": "/web/", "sparklineURL": "/__wb/sparkline", "urlPrefix": "/web/diff/", "waybackDiscoverDiff": "https://gext-api.archive.org/services/simhash", "webMonitoringProcessingURL": "https://gext-api.archive.org/services/diff"}, "features": {"beta_promo": false, "changes_calendar": true, "landing": "carousel", "landing_layout_with_trend": false, "search": "v1"}, "num_of_explored_web_pages": "635 billion", "search_v2": {"search_collections": {"options": {"pdf": {"counter": "298M", "search_types": {"default": "pdf", "horizontal_line_room": 1, "options": [{"icon": "iconochive-texts", "id": "pdf", "items": ["application/pdf"], "title": "PDFs", "type": "application/pdf"}]}, "title": "PDFs"}}}}, "url_playback": "/web/{{date}}/{{url}}", "url_playback_screenshot": "/web/", "url_save_page_now": "/save/{{query}}", "url_search_page": "/web/*/{{url}}*", "url_thumb": "https://web.archive.org/thumb/{{item}}?generate=1"};
+      $(document).ready(function(){
+	var e = $('#react-wayback-search'), c = e.attr('component');
+	ReactDOM.render(
+	  React.createElement(window[c], { config: config }),
+	  e.get(0)
+	);
+      });
+    </script>
+    <div id="react-wayback-search" component="WaybackSearchComponent"><div class="search-toolbar"><div id="donation-link"><a href="//archive.org/donate/?origin=wbwww-CalndrDonateButton" class="donation-button" data-event-click-tracking="Wayback|DonateButton"><span class="beta_button">DONATE</span></a></div><div class="search-toolbar-logo-container"><a href="/"><div class="search-toolbar-logo" alt="logo: Internet Archive's Wayback Machine"></div></a></div><div class="search-text-container"><div class="global-saved-web-pages-count-boxout">Explore more than 635 billion <a target="_blank" rel="noopener noreferrer" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web&nbsp;pages</a> saved&nbsp;over&nbsp;time</div><form><div class="rbt has-aux" tabindex="-1" style="outline: none; position: relative;"><div style="display: flex; flex: 1 1 0%; height: 100%; position: relative;"><input autocomplete="off" placeholder="Enter a URL or words related to a site’s home page" type="text" aria-autocomplete="both" aria-expanded="false" aria-haspopup="listbox" role="combobox" class="rbt-input-main form-control rbt-input" value="http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><input aria-hidden="true" class="rbt-input-hint" readonly="" tabindex="-1" value="" style="background-color: transparent; border-color: transparent; box-shadow: none; color: rgba(0, 0, 0, 0.35); left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%; border-style: solid; border-width: 1px; font-size: 14px; height: 34px; line-height: 20px; margin: 0px; padding: 6px 34px 6px 12px;"></div><div class="rbt-aux"><button aria-label="Clear" class="close rbt-close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Clear</span></button></div></div><input type="submit" class="hidden-submit-btn" tabindex="-1"></form><div class="search-size">Results: 50<span> </span><a href="#">100</a><span> </span><a href="#">500</a><span> </span></div></div></div><nav class="view-navbar"><span class="navbar-option beta-badge-container not-selected-option" title="Calendar of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Calendar</a></span><span class="navbar-option beta-badge-container beta-feature not-selected-option" title="Collections of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/collections/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Collections</a></span><span class="navbar-option beta-badge-container beta-feature not-selected-option" title="Changes of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/changes/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Changes</a></span><span class="navbar-option beta-badge-container not-selected-option" title="Summary of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/details/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Summary</a></span><span class="navbar-option beta-badge-container selected-option" title="Site&amp;nbsp;Map of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><span>Site&nbsp;Map</span></span><span class="navbar-option beta-badge-container not-selected-option" title="URLs of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374/*">URLs</a></span></nav><div id="wb-site-map" class="container text-center"><div class="result-headline text-center"><span class="note-query-type">host</span><span class="note-query-value">fox.presidencia.gob.mx</span></div><p>This “Site Map” feature groups all the archives we have for websites by year, then builds a visual site map, in the form of a radial-tree graph, for each year.</p><p>The center circle is the “root” of the website and successive rings moving out from the center present pages from the site.</p><p>As you roll-over the rings and cells note the corresponding URLs change at the top, and that you can click on any of the individual pages to go directly to an archive of that URL.</p><div id="wb-sequence" title="fox.presidencia.gob.mx"><div class="rt-content" style="display: block;"><div class="div-btn"><button class="year-btn" id="2006">2006</button><button class="year-btn" id="2007">2007</button><button class="year-btn" id="2008">2008</button><button class="year-btn" id="2009">2009</button><button class="year-btn" id="2010">2010</button><button class="year-btn" id="2011">2011</button><button class="year-btn" id="2012">2012</button><button class="year-btn" id="2013">2013</button><button class="year-btn active-btn" id="2014">2014</button><button class="year-btn" id="2015">2015</button><button class="year-btn" id="2016">2016</button><button class="year-btn" id="2017">2017</button><button class="year-btn" id="2018">2018</button><button class="year-btn" id="2019">2019</button></div><p class="sequence"></p><div id="chart"><svg width="319" height="319"><g id="d3_container" transform="translate(159.5,159.5)"><circle r="159.5" style="opacity: 0;"></circle><a xlink:href="https://web.archive.org/web/20140630"><path display="none" d="M2.8193625096103773e-15,-46.04368396787265A46.04368396787265,46.04368396787265,0,1,1,-2.8193625096103773e-15,46.04368396787265A46.04368396787265,46.04368396787265,0,1,1,2.8193625096103773e-15,-46.04368396787265Z" fill-rule="evenodd" style="fill: rgb(166, 206, 227); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx"><path d="M3.9871806983372415e-15,-65.11560232898616A65.11560232898616,65.11560232898616,0,1,1,-3.9871806983372415e-15,65.11560232898616A65.11560232898616,65.11560232898616,0,1,1,3.9871806983372415e-15,-65.11560232898616M-8.458087528831132e-15,-46.04368396787265A46.04368396787265,46.04368396787265,0,1,0,8.458087528831132e-15,46.04368396787265A46.04368396787265,46.04368396787265,0,1,0,-8.458087528831132e-15,-46.04368396787265Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images"><path d="M4.883279111600071e-15,-79.75A79.75,79.75,0,0,1,77.40001752610449,-19.217174270914995L63.1968496738104,-15.690757087294362A65.11560232898616,65.11560232898616,0,0,0,3.9871806983372415e-15,-65.11560232898616Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades"><path d="M77.40001752610449,-19.217174270914995A79.75,79.75,0,0,1,71.296507006538,35.73332602300938L58.21335420292794,29.1761385229629A65.11560232898616,65.11560232898616,0,0,0,63.1968496738104,-15.690757087294362Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en"><path d="M71.296507006538,35.73332602300938A79.75,79.75,0,0,1,49.12989340459904,62.81971087208804L40.11438998619875,51.292079141928184A65.11560232898616,65.11560232898616,0,0,0,58.21335420292794,29.1761385229629Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/mexico"><path d="M49.12989340459904,62.81971087208804A79.75,79.75,0,0,1,24.30826005584161,75.95505903531097L19.847611223896692,62.017046006495A65.11560232898616,65.11560232898616,0,0,0,40.11438998619875,51.292079141928184Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/acciones"><path d="M24.30826005584161,75.95505903531097A79.75,79.75,0,0,1,17.50022144695647,77.80619994131243L14.288870976918021,63.528496227060636A65.11560232898616,65.11560232898616,0,0,0,19.847611223896692,62.017046006495Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=15346"><path d="M17.50022144695647,77.80619994131243A79.75,79.75,0,0,1,10.555219877571714,79.04840183922832L8.618300940977676,64.5427498295309A65.11560232898616,65.11560232898616,0,0,0,14.288870976918021,63.528496227060636Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=16378"><path d="M10.555219877571714,79.04840183922832A79.75,79.75,0,0,1,3.5276094013489234,79.67194281496789L2.8802810150498983,65.0518689042906A65.11560232898616,65.11560232898616,0,0,0,8.618300940977676,64.5427498295309Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=17646"><path d="M3.5276094013489234,79.67194281496789A79.75,79.75,0,0,1,-3.5276094013490193,79.67194281496789L-2.880281015049977,65.0518689042906A65.11560232898616,65.11560232898616,0,0,0,2.8802810150498983,65.0518689042906Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=27147"><path d="M-3.5276094013490193,79.67194281496789A79.75,79.75,0,0,1,-10.555219877571808,79.0484018392283L-8.618300940977754,64.54274982953089A65.11560232898616,65.11560232898616,0,0,0,-2.880281015049977,65.0518689042906Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=5534"><path d="M-10.555219877571808,79.0484018392283A79.75,79.75,0,0,1,-17.500221446956566,77.8061999413124L-14.288870976918098,63.528496227060614A65.11560232898616,65.11560232898616,0,0,0,-8.618300940977754,64.54274982953089Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades?contenido=8747"><path d="M-17.500221446956566,77.8061999413124A79.75,79.75,0,0,1,-24.308260055841703,75.95505903531094L-19.847611223896767,62.01704600649498A65.11560232898616,65.11560232898616,0,0,0,-14.288870976918098,63.528496227060614Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/agenda"><path d="M-24.308260055841703,75.95505903531094A79.75,79.75,0,0,1,-30.926053571432803,73.509466808683L-25.251017002662575,60.02022831510984A65.11560232898616,65.11560232898616,0,0,0,-19.847611223896767,62.01704600649498Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos"><path d="M-30.926053571432803,73.509466808683A79.75,79.75,0,0,1,-37.30180878673429,70.48856333645844L-30.456799336788357,57.55367095872578A65.11560232898616,65.11560232898616,0,0,0,-25.251017002662575,60.02022831510984Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias"><path d="M-37.30180878673429,70.48856333645844A79.75,79.75,0,0,1,-43.385626772618025,66.91599128419969L-35.424215921249036,54.636678092938574A65.11560232898616,65.11560232898616,0,0,0,-30.456799336788357,57.55367095872578Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=15633&amp;pagina=321"><path d="M-43.385626772618025,66.91599128419969A79.75,79.75,0,0,1,-49.12989340459917,62.81971087208793L-40.114389986198866,51.2920791419281A65.11560232898616,65.11560232898616,0,0,0,-35.424215921249036,54.636678092938574Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=16387&amp;pagina=303"><path d="M-49.12989340459917,62.81971087208793A79.75,79.75,0,0,1,-54.48965200791793,58.23178104829016L-44.4906145604066,47.54605012726087A65.11560232898616,65.11560232898616,0,0,0,-40.114389986198866,51.2920791419281Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=19282&amp;pagina=234"><path d="M-54.48965200791793,58.23178104829016A79.75,79.75,0,0,1,-59.42295520447405,53.18810858422275L-48.51863975307449,43.42790880503051A65.11560232898616,65.11560232898616,0,0,0,-44.4906145604066,47.54605012726087Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=19419&amp;pagina=229"><path d="M-59.42295520447405,53.18810858422275A79.75,79.75,0,0,1,-63.89119320793478,47.728167055380915L-52.16694080567151,38.96988521466585A65.11560232898616,65.11560232898616,0,0,0,-48.51863975307449,43.42790880503051Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=21047&amp;pagina=189"><path d="M-63.89119320793478,47.728167055380915A79.75,79.75,0,0,1,-67.85939599766205,41.89468790709017L-55.406964815911685,34.20686943517328A65.11560232898616,65.11560232898616,0,0,0,-52.16694080567151,38.96988521466585Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=22630&amp;pagina=146"><path d="M-67.85939599766205,41.89468790709017A79.75,79.75,0,0,1,-71.29650700653806,35.73332602300923L-58.213354202927995,29.17613852296278A65.11560232898616,65.11560232898616,0,0,0,-55.406964815911685,34.20686943517328Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=25708&amp;pagina=68"><path d="M-71.29650700653806,35.73332602300923A79.75,79.75,0,0,1,-74.17562618071103,29.292302413764215L-60.56414516472368,23.91706476833946A65.11560232898616,65.11560232898616,0,0,0,-58.213354202927995,29.17613852296278Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=26662&amp;pagina=45"><path d="M-74.17562618071103,29.292302413764215A79.75,79.75,0,0,1,-76.47422050898899,22.62202682216004L-62.4409395747025,18.470807553948987A65.11560232898616,65.11560232898616,0,0,0,-60.56414516472368,23.91706476833946Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=27392&amp;pagina=27"><path d="M-76.47422050898899,22.62202682216004A79.75,79.75,0,0,1,-78.1743003742038,15.774703198594896L-63.82904897195446,12.879991226802398A65.11560232898616,65.11560232898616,0,0,0,-62.4409395747025,18.470807553948987Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=4869&amp;pagina=386"><path d="M-78.1743003742038,15.774703198594896A79.75,79.75,0,0,1,-79.26256034635668,8.803921134367677L-64.71760951837778,7.188371504968556A65.11560232898616,65.11560232898616,0,0,0,-63.82904897195446,12.879991226802398Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=5244&amp;pagina=375"><path d="M-79.26256034635668,8.803921134367677A79.75,79.75,0,0,1,-79.73048331564813,1.764236450466589L-65.0996670229418,1.4404930297540377A65.11560232898616,65.11560232898616,0,0,0,-64.71760951837778,7.188371504968556Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=5258&amp;pagina=375"><path d="M-79.73048331564813,1.764236450466589A79.75,79.75,0,0,1,-79.57440715041004,-5.289255775699586L-64.9722313676606,-4.31865925651094A65.11560232898616,65.11560232898616,0,0,0,-65.0996670229418,1.4404930297540377Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias?contenido=5584&amp;pagina=369"><path d="M-79.57440715041004,-5.289255775699586A79.75,79.75,0,0,1,-78.79555335825128,-12.301352403982884L-64.33629990932037,-10.04401217863909A65.11560232898616,65.11560232898616,0,0,0,-64.9722313676606,-4.31865925651094Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buscador?contenido=1152&amp;pagina=752&amp;palabras=indendencia+de+mexico"><path d="M-78.79555335825128,-12.301352403982884A79.75,79.75,0,0,1,-77.40001752610449,-19.217174270915002L-63.1968496738104,-15.690757087294367A65.11560232898616,65.11560232898616,0,0,0,-64.33629990932037,-10.04401217863909Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/cambio"><path d="M-77.40001752610449,-19.217174270915002A79.75,79.75,0,0,1,-75.39872161399363,-25.98259569356936L-61.562798404147244,-21.21470054742684A65.11560232898616,65.11560232898616,0,0,0,-63.1968496738104,-15.690757087294367Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/directorio"><path d="M-75.39872161399363,-25.98259569356936A79.75,79.75,0,0,1,-72.80732847588827,-32.54466807641629L-59.446934767044645,-26.572610211821623A65.11560232898616,65.11560232898616,0,0,0,-61.562798404147244,-21.21470054742684Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/directorio?servidorid=bovl610819mv1"><path d="M-72.80732847588827,-32.54466807641629A79.75,79.75,0,0,1,-69.64611927663472,-38.852034305873474L-56.86581826425685,-31.722553172832413A65.11560232898616,65.11560232898616,0,0,0,-59.446934767044645,-26.572610211821623Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/estadomayor?contenido=16984"><path d="M-69.64611927663472,-38.852034305873474A79.75,79.75,0,0,1,-65.939834764343,-44.85533068935219L-53.83964963202528,-36.62422414423857A65.11560232898616,65.11560232898616,0,0,0,-56.86581826425685,-31.722553172832413Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/etica"><path d="M-65.939834764343,-44.85533068935219A79.75,79.75,0,0,1,-61.717481640488074,-50.50757329308167L-50.39211274292823,-41.239260904757714A65.11560232898616,65.11560232898616,0,0,0,-53.83964963202528,-36.62422414423857Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/favicon.ico"><path d="M-61.717481640488074,-50.50757329308167A79.75,79.75,0,0,1,-57.012105543142034,-55.76452565509396L-46.550189247466136,-45.53154453444069A65.11560232898616,65.11560232898616,0,0,0,-50.39211274292823,-41.239260904757714Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/foxcontigo"><path d="M-57.012105543142034,-55.76452565509396A79.75,79.75,0,0,1,-51.86053242005133,-60.58504499551689L-42.3439474060634,-49.46748209419198A65.11560232898616,65.11560232898616,0,0,0,-46.550189247466136,-45.53154453444069Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/foxcontigo?contenido=17673&amp;pagina=5"><path d="M-51.86053242005133,-60.58504499551689A79.75,79.75,0,0,1,-46.303080315665106,-64.93140421460996L-37.80630676416246,-53.016269536065174A65.11560232898616,65.11560232898616,0,0,0,-42.3439474060634,-49.46748209419198Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/gabinete"><path d="M-46.303080315665106,-64.93140421460996A79.75,79.75,0,0,1,-40.383243827772255,-68.76958715847212L-32.97278051214674,-56.15013278670375A65.11560232898616,65.11560232898616,0,0,0,-37.80630676416246,-53.016269536065174Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/gabinete?contenido=15055"><path d="M-40.383243827772255,-68.76958715847212A79.75,79.75,0,0,1,-34.147353703301484,-72.06955484156693L-27.881197546475388,-58.84454511712264A65.11560232898616,65.11560232898616,0,0,0,-32.97278051214674,-56.15013278670375Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/gabinete?contenido=15078"><path d="M-34.147353703301484,-72.06955484156693A79.75,79.75,0,0,1,-27.6442142374091,-74.80548054251258L-22.571406407278097,-61.078419097617065A65.11560232898616,65.11560232898616,0,0,0,-27.881197546475388,-58.84454511712264Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/gabinete?contenido=21015"><path d="M-27.6442142374091,-74.80548054251258A79.75,79.75,0,0,1,-20.92472131369806,-76.95595193319403L-17.084963409499984,-62.83427163549136A65.11560232898616,65.11560232898616,0,0,0,-22.571406407278097,-61.078419097617065Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/martadefox"><path d="M-20.92472131369806,-76.95595193319403A79.75,79.75,0,0,1,-14.04146407492164,-78.50413865926232L-11.464807408393016,-64.09836080396381A65.11560232898616,65.11560232898616,0,0,0,-17.084963409499984,-62.83427163549136Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/robots.txt"><path d="M-14.04146407492164,-78.50413865926232A79.75,79.75,0,0,1,-7.048313341638339,-79.43792406047682L-5.75492374475498,-64.86079339137568A65.11560232898616,65.11560232898616,0,0,0,-11.464807408393016,-64.09836080396381Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/serviciosocial"><path d="M-7.048313341638339,-79.43792406047682A79.75,79.75,0,0,1,-2.9797875321914016e-13,-79.75L-2.4329863319253456e-13,-65.11560232898616A65.11560232898616,65.11560232898616,0,0,0,-5.75492374475498,-64.86079339137568Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio"><path d="M5.638725019220755e-15,-92.0873679357453A92.0873679357453,92.0873679357453,0,0,1,53.46619176911608,-74.97632740433102L46.303080315664985,-64.93140421461004A79.75,79.75,0,0,0,4.883279111600071e-15,-79.75Z" fill-rule="evenodd" style="fill: rgb(166, 206, 227); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal"><path d="M53.46619176911608,-74.97632740433102A92.0873679357453,92.0873679357453,0,0,1,84.07066138906318,-37.57934574921197L72.80732847588826,-32.54466807641632A79.75,79.75,0,0,0,46.303080315664985,-64.93140421461004Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/bandera.gif"><path d="M84.07066138906318,-37.57934574921197A92.0873679357453,92.0873679357453,0,0,1,87.06294444078576,-30.002117235854968L75.39872161399363,-25.982595693569365A79.75,79.75,0,0,0,72.80732847588826,-32.54466807641632Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/gabinete"><path d="M87.06294444078576,-30.002117235854968A92.0873679357453,92.0873679357453,0,0,1,89.37384190795636,-22.190081476753445L77.40001752610449,-19.217174270914995A79.75,79.75,0,0,0,75.39872161399363,-25.982595693569365Z" fill-rule="evenodd" style="fill: rgb(202, 178, 214); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=19180"><path d="M89.37384190795636,-22.190081476753445A92.0873679357453,92.0873679357453,0,0,1,90.98526788466378,-14.204378243671908L78.79555335825128,-12.30135240398286A79.75,79.75,0,0,0,77.40001752610449,-19.217174270914995Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=28215"><path d="M90.98526788466378,-14.204378243671908A92.0873679357453,92.0873679357453,0,0,1,91.88461077778824,-6.107506491825827L79.57440715041004,-5.289255775699543A79.75,79.75,0,0,0,78.79555335825128,-12.30135240398286Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/conferencias"><path d="M91.88461077778824,-6.107506491825827A92.0873679357453,92.0873679357453,0,0,1,92.06483200981683,2.0371647791821403L79.73048331564813,1.76423645046665A79.75,79.75,0,0,0,79.57440715041004,-5.289255775699543Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/crecimiento"><path d="M92.06483200981683,2.0371647791821403A92.0873679357453,92.0873679357453,0,0,1,91.52452110525596,10.165892473702918L79.26256034635666,8.803921134367755A79.75,79.75,0,0,0,79.73048331564813,1.76423645046665Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/desarrollo?contenido=15444&amp;imprimir=true"><path d="M91.52452110525596,10.165892473702918A92.0873679357453,92.0873679357453,0,0,1,90.26790672951442,18.215058276190536L78.17430037420378,15.774703198594992A79.75,79.75,0,0,0,79.26256034635666,8.803921134367755Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/entrevistas?contenido=3220&amp;imprimir=true"><path d="M90.26790672951442,18.215058276190536A92.0873679357453,92.0873679357453,0,0,1,88.30482359386315,26.12166655077819L76.47422050898895,22.622026822160148A79.75,79.75,0,0,0,78.17430037420378,15.774703198594992Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/orden"><path d="M88.30482359386315,26.12166655077819A92.0873679357453,92.0873679357453,0,0,1,85.65063548548507,33.82383736754153L74.17562618071098,29.29230241376434A79.75,79.75,0,0,0,76.47422050898895,22.622026822160148Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/actividades/orden?contenido=25613"><path d="M85.65063548548507,33.82383736754153A92.0873679357453,92.0873679357453,0,0,1,82.32611502500949,41.261290796850254L71.296507006538,35.73332602300938A79.75,79.75,0,0,0,74.17562618071098,29.29230241376434Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/activities"><path d="M82.32611502500949,41.261290796850254A92.0873679357453,92.0873679357453,0,0,1,73.77519519489493,55.11174019470338L63.89119320793466,47.72816705538107A79.75,79.75,0,0,0,71.296507006538,35.73332602300938Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/search?contenido=3488&amp;pagina=2&amp;palabras=foreign+policy"><path d="M73.77519519489493,55.11174019470338A92.0873679357453,92.0873679357453,0,0,1,68.61571836669218,61.41633761757628L59.422955204473915,53.18810858422291A79.75,79.75,0,0,0,63.89119320793466,47.72816705538107Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/search?palabras=gray+davis&amp;x=0&amp;y=0"><path d="M68.61571836669218,61.41633761757628A92.0873679357453,92.0873679357453,0,0,1,62.91923050964073,67.2402689272435L54.48965200791778,58.2317810482903A79.75,79.75,0,0,0,59.422955204473915,53.18810858422291Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/vicentefox?contenido=17322"><path d="M62.91923050964073,67.2402689272435A92.0873679357453,92.0873679357453,0,0,1,56.730314364805714,72.537953964829L49.12989340459901,62.81971087208806A79.75,79.75,0,0,0,54.48965200791778,58.2317810482903Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/mexico/gobernantes"><path d="M56.73031436480574,72.53795396482897A92.0873679357453,92.0873679357453,0,0,1,50.09740659226317,77.26793116204678L43.38562677261791,66.91599128419976A79.75,79.75,0,0,0,49.12989340459904,62.81971087208804Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/mexico/sabiasque"><path d="M50.09740659226317,77.26793116204678A92.0873679357453,92.0873679357453,0,0,1,43.07241868856188,81.39318203418857L37.301808786734206,70.48856333645848A79.75,79.75,0,0,0,43.38562677261791,66.91599128419976Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/mexico/sabiasque?contenido=20022&amp;pagina=4"><path d="M43.07241868856188,81.39318203418857A92.0873679357453,92.0873679357453,0,0,1,35.71033070887896,84.88142089995802L30.926053571432746,73.50946680868303A79.75,79.75,0,0,0,37.301808786734206,70.48856333645848Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/mexico/sabiasque?contenido=27831&amp;pagina=1"><path d="M35.71033070887896,84.88142089995802A92.0873679357453,92.0873679357453,0,0,1,28.06876097354324,87.70534756070138L24.308260055841682,75.95505903531095A79.75,79.75,0,0,0,30.926053571432746,73.50946680868303Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/acciones/flvplayer.swf?autostart=false&amp;clicktext=ver%20video&amp;file=http:"><path d="M28.06876097354316,87.70534756070141A92.0873679357453,92.0873679357453,0,0,1,20.207515126556757,89.84286096147714L17.50022144695647,77.80619994131243A79.75,79.75,0,0,0,24.30826005584161,75.95505903531097Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4"><path d="M-35.71033070887903,84.88142089995799A92.0873679357453,92.0873679357453,0,0,1,-43.072418688561974,81.39318203418853L-37.30180878673429,70.48856333645844A79.75,79.75,0,0,0,-30.926053571432803,73.509466808683Z" fill-rule="evenodd" style="fill: rgb(202, 178, 214); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/buenasnoticias/index.php?contenido=17489"><path d="M-43.072418688561974,81.39318203418853A92.0873679357453,92.0873679357453,0,0,1,-50.097406592263305,77.2679311620467L-43.385626772618025,66.91599128419969A79.75,79.75,0,0,0,-37.30180878673429,70.48856333645844Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/cambio/salud"><path d="M-89.37384190795636,-22.190081476753452A92.0873679357453,92.0873679357453,0,0,1,-87.06294444078576,-30.002117235854957L-75.39872161399363,-25.98259569356936A79.75,79.75,0,0,0,-77.40001752610449,-19.217174270915002Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/directorio/image.php?servidorid=tede661024ita"><path d="M-87.06294444078576,-30.002117235854957A92.0873679357453,92.0873679357453,0,0,1,-84.07066138906319,-37.57934574921193L-72.80732847588827,-32.54466807641629A79.75,79.75,0,0,0,-75.39872161399363,-25.98259569356936Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-07-08"><path d="M6.304286224703208e-15,-102.9568072866805A102.9568072866805,102.9568072866805,0,0,1,27.013699057327717,-99.34970674293305L24.161786966362705,-88.86107912874701A92.0873679357453,92.0873679357453,0,0,0,5.638725019220755e-15,-92.0873679357453Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-08-06"><path d="M27.013699057327717,-99.34970674293305A102.9568072866805,102.9568072866805,0,0,1,35.6885271201582,-96.57346011539816L31.920789063007415,-86.37792865615798A92.0873679357453,92.0873679357453,0,0,0,24.161786966362705,-88.86107912874701Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-08-13"><path d="M35.6885271201582,-96.57346011539816A102.9568072866805,102.9568072866805,0,0,1,44.08404406998005,-93.0413952233237L39.42996770542875,-83.21875377631041A92.0873679357453,92.0873679357453,0,0,0,31.920789063007415,-86.37792865615798Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-09-17"><path d="M44.08404406998005,-93.0413952233237A102.9568072866805,102.9568072866805,0,0,1,52.13454360359826,-88.78115526344078L46.630553389429025,-79.40827931600673A92.0873679357453,92.0873679357453,0,0,0,39.42996770542875,-83.21875377631041Z" fill-rule="evenodd" style="fill: rgb(255, 255, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-10-08"><path d="M52.13454360359826,-88.78115526344078A102.9568072866805,102.9568072866805,0,0,1,59.77701964689164,-83.82608238968226L53.466191769116065,-74.97632740433102A92.0873679357453,92.0873679357453,0,0,0,46.630553389429025,-79.40827931600673Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/17463.jpg"><path d="M59.77701964689165,-83.82608238968226A102.9568072866805,102.9568072866805,0,0,1,66.9516594627694,-78.21495676562142L59.883384706067766,-69.95758407405462A92.0873679357453,92.0873679357453,0,0,0,53.46619176911608,-74.97632740433102Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/22661.jpg"><path d="M66.9516594627694,-78.21495676562142A102.9568072866805,102.9568072866805,0,0,1,73.60231176693613,-71.99169305711183L65.83190896480073,-64.39132779640067A92.0873679357453,92.0873679357453,0,0,0,59.883384706067766,-69.95758407405462Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/23762.jpg"><path d="M73.60231176693613,-71.99169305711183A102.9568072866805,102.9568072866805,0,0,1,79.67692618782404,-65.20499674048537L71.26520927768308,-58.321122073751A92.0873679357453,92.0873679357453,0,0,0,65.83190896480073,-64.39132779640067Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/24083.jpg"><path d="M79.67692618782404,-65.20499674048537A102.9568072866805,102.9568072866805,0,0,1,85.12796063132306,-57.90798291616259L76.1407627030257,-51.794474496174416A92.0873679357453,92.0873679357453,0,0,0,71.26520927768308,-58.321122073751Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/25688.jpg"><path d="M85.12796063132306,-57.90798291616259A102.9568072866805,102.9568072866805,0,0,1,89.91275336212716,-50.15776061097581L80.42041142475564,-44.86246493012131A92.0873679357453,92.0873679357453,0,0,0,76.1407627030257,-51.794474496174416Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/principal/27802.jpg"><path d="M89.91275336212716,-50.15776061097581A102.9568072866805,102.9568072866805,0,0,1,93.99385688965606,-42.01498582260288L84.07066138906316,-37.57934574921198A92.0873679357453,92.0873679357453,0,0,0,80.42041142475564,-44.86246493012131Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/gabinete/mediana"><path d="M97.3393310454422,-33.5433868041449A102.9568072866805,102.9568072866805,0,0,1,99.92299295825497,-24.809265304139814L89.37384190795636,-22.190081476753445A92.0873679357453,92.0873679357453,0,0,0,87.06294444078576,-30.002117235854968Z" fill-rule="evenodd" style="fill: rgb(166, 206, 227); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/activities/pressreleases?contenido=2770&amp;pagina=23"><path d="M92.04339475969401,46.13152553057182A102.9568072866805,102.9568072866805,0,0,1,87.60610352754631,54.08580951957272L78.35728109259107,48.37581868154793A92.0873679357453,92.0873679357453,0,0,0,82.32611502500949,41.261290796850254Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/en/activities/speeches?contenido=20654&amp;pagina=1"><path d="M87.60610352754631,54.08580951957272A102.9568072866805,102.9568072866805,0,0,1,82.48317575455046,61.61679871683213L73.77519519489493,55.11174019470338A92.0873679357453,92.0873679357453,0,0,0,78.35728109259107,48.37581868154793Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9"><path d="M-39.92536348202589,94.90031357953872A102.9568072866805,102.9568072866805,0,0,1,-48.156428071478466,91.00034396673009L-43.072418688561974,81.39318203418853A92.0873679357453,92.0873679357453,0,0,0,-35.71033070887903,84.88142089995799Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-07-08/imagen5.jpg"><path d="M6.905999548478059e-15,-112.78353159925433A112.78353159925433,112.78353159925433,0,0,1,9.967820319599783,-112.34218957309037L9.099333397005259,-102.5539189811721A102.9568072866805,102.9568072866805,0,0,0,6.304286224703208e-15,-102.9568072866805Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-07-08/imagen9.jpg"><path d="M9.967820319599783,-112.34218957309037A112.78353159925433,112.78353159925433,0,0,1,19.85762893032841,-111.02161759434684L18.127452172846752,-101.34840721189367A102.9568072866805,102.9568072866805,0,0,0,9.099333397005259,-102.5539189811721Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-07-08/imagenprincipal_ch.jpg"><path d="M19.85762893032841,-111.02161759434684A112.78353159925433,112.78353159925433,0,0,1,29.592024670708867,-108.83215092925508L27.013699057327717,-99.34970674293305A102.9568072866805,102.9568072866805,0,0,0,18.127452172846752,-101.34840721189367Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-08-06/imagenprincipal_ch.jpg"><path d="M29.592024670708867,-108.83215092925508A112.78353159925433,112.78353159925433,0,0,1,39.094822695691064,-105.79092512305807L35.6885271201582,-96.57346011539816A102.9568072866805,102.9568072866805,0,0,0,27.013699057327717,-99.34970674293305Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-08-13/imagenprincipal_ch.jpg"><path d="M39.094822695691064,-105.79092512305807A112.78353159925433,112.78353159925433,0,0,1,48.291650726359855,-101.92174189113561L44.08404406998005,-93.0413952233237A102.9568072866805,102.9568072866805,0,0,0,35.6885271201582,-96.57346011539816Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-09-17/imagen1.jpg"><path d="M48.291650726359855,-101.92174189113561A112.78353159925433,112.78353159925433,0,0,1,57.110531113854876,-97.25488283831005L52.13454360359826,-88.78115526344078A102.9568072866805,102.9568072866805,0,0,0,44.08404406998005,-93.0413952233237Z" fill-rule="evenodd" style="fill: rgb(255, 255, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/inicio/2004-10-08/imagen1.jpg"><path d="M57.110531113854876,-97.25488283831005A112.78353159925433,112.78353159925433,0,0,1,65.4824441620641,-91.82687246423107L59.77701964689164,-83.82608238968226A102.9568072866805,102.9568072866805,0,0,0,52.13454360359826,-88.78115526344078Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/images/gabinete/mediana/xochitl_galvez.jpg"><path d="M106.62989469210322,-36.74493921550257A112.78353159925433,112.78353159925433,0,0,1,109.46015451333223,-27.177188484415282L99.92299295825497,-24.809265304139814A102.9568072866805,102.9568072866805,0,0,0,97.3393310454422,-33.5433868041449Z" fill-rule="evenodd" style="fill: rgb(166, 206, 227); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0"><path d="M-43.736044391397165,103.95808492365438A112.78353159925433,112.78353159925433,0,0,1,-52.75272388724752,99.68588226261443L-48.156428071478466,91.00034396673009A102.9568072866805,102.9568072866805,0,0,0,-39.92536348202589,94.90031357953872Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5"><path d="M-47.240327145783404,112.2875653155446A121.82013722424274,121.82013722424274,0,0,1,-56.979454107992915,107.67305903933658L-52.75272388724752,99.68588226261443A112.78353159925433,112.78353159925433,0,0,0,-43.736044391397165,103.95808492365438Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5/1"><path d="M-50.50203400532515,120.04045663021968A130.2312046579723,130.2312046579723,0,0,1,-60.913598673576715,115.10734191745156L-56.979454107992915,107.67305903933658A121.82013722424274,121.82013722424274,0,0,0,-47.240327145783404,112.2875653155446Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5/1/files"><path d="M-53.56549606331855,127.32213134993698A138.13105190361796,138.13105190361796,0,0,1,-64.60862803284297,122.08977305128279L-60.913598673576715,115.10734191745156A130.2312046579723,130.2312046579723,0,0,0,-50.50203400532515,120.04045663021968Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5/1/files/fotos"><path d="M-56.46299051895651,134.20931053764326A145.60291320345667,145.60291320345667,0,0,1,-68.10347369412928,128.69392061836635L-64.60862803284297,122.08977305128279A138.13105190361796,138.13105190361796,0,0,0,-53.56549606331855,127.32213134993698Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5/1/files/fotos/mediano"><path d="M-59.21888405042896,140.75991239869583A152.70962368713595,152.70962368713595,0,0,1,-71.42752580152595,134.97532265024972L-68.10347369412928,128.69392061836635A145.60291320345667,145.60291320345667,0,0,0,-56.46299051895651,134.20931053764326Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20140630/fox.presidencia.gob.mx/archivos/4/9/0/5/1/files/fotos/mediano/sip-3051.jpg"><path d="M-61.852107142865606,147.018933617366A159.5,159.5,0,0,1,-74.60361757346858,140.97712667291688L-71.42752580152595,134.97532265024972A152.70962368713595,152.70962368713595,0,0,0,-59.21888405042896,140.75991239869583Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a></g></svg></div></div></div></div><div class="wbs__web_footer"><a class="footer-item" href="https://archive.org/about/faqs.php#The_Wayback_Machine">FAQ</a> | <a class="footer-item" href="https://archive.org/about/contact.php">Contact Us</a> | <a class="footer-item" href="https://archive.org/about/terms.php">Terms of Service (Dec 31, 2014)</a></div></div>
+    <noscript>
+      <div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+    </noscript>
+    <footer>
+      <div id="footerHome">
+        <p>
+          The Wayback Machine is an initiative of the
+          <a href="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br>Other <a href="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org">archive-it.org</a>.
+        </p>
+        <p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+      </div>
+    </footer>
+
+</body></html>

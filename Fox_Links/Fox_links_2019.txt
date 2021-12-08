@@ -1,0 +1,607 @@
+<html lang="en"><head><style type="text/css">svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.225em;
+}
+.svg-inline--fa.fa-w-1 {
+  width: 0.0625em;
+}
+.svg-inline--fa.fa-w-2 {
+  width: 0.125em;
+}
+.svg-inline--fa.fa-w-3 {
+  width: 0.1875em;
+}
+.svg-inline--fa.fa-w-4 {
+  width: 0.25em;
+}
+.svg-inline--fa.fa-w-5 {
+  width: 0.3125em;
+}
+.svg-inline--fa.fa-w-6 {
+  width: 0.375em;
+}
+.svg-inline--fa.fa-w-7 {
+  width: 0.4375em;
+}
+.svg-inline--fa.fa-w-8 {
+  width: 0.5em;
+}
+.svg-inline--fa.fa-w-9 {
+  width: 0.5625em;
+}
+.svg-inline--fa.fa-w-10 {
+  width: 0.625em;
+}
+.svg-inline--fa.fa-w-11 {
+  width: 0.6875em;
+}
+.svg-inline--fa.fa-w-12 {
+  width: 0.75em;
+}
+.svg-inline--fa.fa-w-13 {
+  width: 0.8125em;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
+.svg-inline--fa.fa-w-15 {
+  width: 0.9375em;
+}
+.svg-inline--fa.fa-w-16 {
+  width: 1em;
+}
+.svg-inline--fa.fa-w-17 {
+  width: 1.0625em;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+.svg-inline--fa.fa-w-19 {
+  width: 1.1875em;
+}
+.svg-inline--fa.fa-w-20 {
+  width: 1.25em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-border {
+  height: 1.5em;
+}
+.svg-inline--fa.fa-li {
+  width: 2em;
+}
+.svg-inline--fa.fa-fw {
+  width: 1.25em;
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: #ff253a;
+  border-radius: 1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #fff;
+  height: 1.5em;
+  line-height: 1;
+  max-width: 5em;
+  min-width: 1.5em;
+  overflow: hidden;
+  padding: 0.25em;
+  right: 0;
+  text-overflow: ellipsis;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: 0;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  right: 0;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: 0;
+  right: auto;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.fa-pull-left {
+  float: left;
+}
+
+.fa-pull-right {
+  float: right;
+}
+
+.fa.fa-pull-left,
+.fas.fa-pull-left,
+.far.fa-pull-left,
+.fal.fa-pull-left,
+.fab.fa-pull-left {
+  margin-right: 0.3em;
+}
+.fa.fa-pull-right,
+.fas.fa-pull-right,
+.far.fa-pull-right,
+.fal.fa-pull-right,
+.fab.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8);
+}
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none;
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: #fff;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse {
+  color: #fff;
+}</style><style>body {transition: opacity ease-in 0.2s; }
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+</style>
+    <title>Wayback Machine</title>
+    <script>
+    /*
+    @licstart  The following is the entire license notice for the JavaScript code in this page.
+
+    Copyright (C) 2020 Internet Archive
+
+    The JavaScript code in this page is free software: you can
+    redistribute it and/or modify it under the terms of the GNU Affero
+    General Public License as published by the Free Software
+    Foundation, either version 3 of the License, or (at your option)
+    any later version.  The code is distributed WITHOUT ANY WARRANTY;
+    without even the implied warranty of MERCHANTABILITY or FITNESS
+    FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+    As additional permission under GNU AGPL version 3 section 7, you
+    may distribute non-source (e.g., minimized or compacted) forms of
+    that code without the copy of the GNU AGPL normally required by
+    section 4, provided you include this license notice and a URL
+    through which recipients can access the Corresponding Source.
+
+    @licend  The above is the entire license notice for the JavaScript code in this page.
+    */
+    </script>
+    <script type="text/javascript">
+      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+    <script src="https://polyfill.archive.org/v3/polyfill.min.js?features=fetch%2CIntersectionObserver%2CResizeObserver%2CglobalThis%2CElement.prototype.getAttributeNames%2CString.prototype.startsWith"></script>
+    <script src="//archive.org/includes/build/npm/jquery/dist/jquery.min.js?v1.12.4" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui-dist/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/bootstrap/dist/js/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=2ae87d07" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=2ae87d07" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=2ae87d07" rel="stylesheet" type="text/css">
+    <meta property="mediatype" content="">
+    <meta property="primary_collection" content="">
+    <script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web/sitemap';v.service='wb';v.server_name='wwwb-app210.us.archive.org';v.server_ms=59;archive_analytics.send_pageview_on_load()}</script>
+    <link href="/_static/images/archive.ico" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/styles.css?v=TN3GQxFf">
+    <base target="_top">
+    <link href="/_static/css/web.css" rel="stylesheet" type="text/css">
+    <!-- include component js and css -->
+    <link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/vendors~main.f8de30afe63382400f42.chunk.css">
+<link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/main.2cdb328382d6bf20ab95.chunk.css">
+<script src="/static/bower_components/wayback-search-js/dist/runtime.f23138e1489064881544.js"></script>
+<script src="/static/bower_components/wayback-search-js/dist/vendors~main.f8de30afe63382400f42.chunk.js"></script>
+<script src="/static/bower_components/wayback-search-js/dist/main.2cdb328382d6bf20ab95.chunk.js"></script>
+    <script src="https://archive.org/web/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?v6.2.1" type="text/javascript"></script>
+    <style>
+      html, body { margin:0; padding:0 }
+      #faux-header {
+        height: 50px;
+        width: 100%;
+        margin:0;
+        background-color:black;
+      }
+      #react-wayback-search {
+        max-width: 1170px;
+        margin: 0 auto;
+        padding: 10px;
+      }
+    </style>
+  <link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/vendors~sitemap.c08f8b6555064bc6a16f.chunk.css"><script charset="utf-8" src="/static/bower_components/wayback-search-js/dist/vendors~sitemap.c08f8b6555064bc6a16f.chunk.js"></script><link rel="stylesheet" type="text/css" href="/static/bower_components/wayback-search-js/dist/sitemap.6b71661805a9cf337120.chunk.css"><script charset="utf-8" src="/static/bower_components/wayback-search-js/dist/sitemap.6b71661805a9cf337120.chunk.js"></script></head>
+  <body class="navia">
+
+                    <div class="ia-banners">
+              <div class="ia-banner hidden outage-2021-10-27 visible" data-campaign="outage-2021-10-27">
+        <p></p>
+        <form class="banner-close" action="" method="get" data-action="ia-banner-close">
+          <fieldset>
+            <button aria-label="Close Banner" type="submit"></button>
+          </fieldset>
+        </form>
+      </div>
+          </div>
+                    <div id="topnav">
+                    <ia-topnav secondidentityslotmode="allow" basehost="https://archive.org" mediabasehost="https://archive.org" username="" userprofilelastmodified="" screenname="" searchquery="" config="eyJ1cGxvYWRVUkwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2NyZWF0ZSIsImV2ZW50Q2F0ZWdvcnkiOiJUb3BOYXYiLCJ3YXliYWNrUGFnZXNBcmNoaXZlZCI6IjYzNSBiaWxsaW9uIn0=" menus="eyJhdWRpbyI6eyJoZWFkaW5nIjoiSW50ZXJuZXQgQXJjaGl2ZSBBdWRpbyIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvZXRyZWUiLCJ0aXRsZSI6IkxpdmUgTXVzaWMgQXJjaGl2ZSIsInVybCI6IlwvZGV0YWlsc1wvZXRyZWUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2xpYnJpdm94YXVkaW8iLCJ0aXRsZSI6IkxpYnJpdm94IEZyZWUgQXVkaW8iLCJ1cmwiOiJcL2RldGFpbHNcL2xpYnJpdm94YXVkaW8ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIEF1ZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpbyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmF1ZGlvJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiR3JhdGVmdWwgRGVhZCIsInVybCI6IlwvZGV0YWlsc1wvR3JhdGVmdWxEZWFkIn0seyJ0aXRsZSI6Ik5ldGxhYmVscyIsInVybCI6IlwvZGV0YWlsc1wvbmV0bGFiZWxzIn0seyJ0aXRsZSI6Ik9sZCBUaW1lIFJhZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9vbGR0aW1lcmFkaW8ifSx7InRpdGxlIjoiNzggUlBNcyBhbmQgQ3lsaW5kZXIgUmVjb3JkaW5ncyIsInVybCI6IlwvZGV0YWlsc1wvNzhycG0ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkF1ZGlvIEJvb2tzICYgUG9ldHJ5IiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19ib29rc3BvZXRyeSJ9LHsidGl0bGUiOiJDb21wdXRlcnMsIFRlY2hub2xvZ3kgYW5kIFNjaWVuY2UiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3RlY2gifSx7InRpdGxlIjoiTXVzaWMsIEFydHMgJiBDdWx0dXJlIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19tdXNpYyJ9LHsidGl0bGUiOiJOZXdzICYgUHVibGljIEFmZmFpcnMiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX25ld3MifSx7InRpdGxlIjoiTm9uLUVuZ2xpc2ggQXVkaW8iLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX2ZvcmVpZ24ifSx7InRpdGxlIjoiU3Bpcml0dWFsaXR5ICYgUmVsaWdpb24iLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3JlbGlnaW9uIn0seyJ0aXRsZSI6IlBvZGNhc3RzIiwidXJsIjoiXC9kZXRhaWxzXC9wb2RjYXN0cyJ9LHsidGl0bGUiOiJBdWRpbyBMaWJyYXJ5IGFuZCBUYWxraW5nIEJvb2tzIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb2xpYnJhcnkifSx7InRpdGxlIjoiUmFkaW8gTmV3cyBBcmNoaXZlIiwidXJsIjoiXC9kZXRhaWxzXC9yYWRpbyJ9XX0sImltYWdlcyI6eyJoZWFkaW5nIjoiSW1hZ2VzIiwiaWNvbkxpbmtzIjpbeyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9tZXRyb3BvbGl0YW5tdXNldW1vZmFydC1nYWxsZXJ5IiwidGl0bGUiOiJNZXRyb3BvbGl0YW4gTXVzZXVtIiwidXJsIjoiXC9kZXRhaWxzXC9tZXRyb3BvbGl0YW5tdXNldW1vZmFydC1nYWxsZXJ5In0seyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9icm9va2x5bm11c2V1bSIsInRpdGxlIjoiQnJvb2tseW4gTXVzZXVtIiwidXJsIjoiXC9kZXRhaWxzXC9icm9va2x5bm11c2V1bSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgSW1hZ2VzIiwidXJsIjoiXC9kZXRhaWxzXC9pbWFnZSJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmltYWdlJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiRmxpY2tyIENvbW1vbnMiLCJ1cmwiOiJcL2RldGFpbHNcL2ZsaWNrcmNvbW1vbnMifSx7InRpdGxlIjoiT2NjdXB5IFdhbGwgU3RyZWV0IEZsaWNrciIsInVybCI6IlwvZGV0YWlsc1wvZmxpY2tyLW93cyJ9LHsidGl0bGUiOiJDb3ZlciBBcnQiLCJ1cmwiOiJcL2RldGFpbHNcL2NvdmVyYXJ0YXJjaGl2ZSJ9LHsidGl0bGUiOiJVU0dTIE1hcHMiLCJ1cmwiOiJcL2RldGFpbHNcL21hcHNfdXNncyJ9XSwibGlua3MiOlt7InRpdGxlIjoiTkFTQSBJbWFnZXMiLCJ1cmwiOiJcL2RldGFpbHNcL25hc2EifSx7InRpdGxlIjoiU29sYXIgU3lzdGVtIENvbGxlY3Rpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NvbGFyc3lzdGVtY29sbGVjdGlvbiJ9LHsidGl0bGUiOiJBbWVzIFJlc2VhcmNoIENlbnRlciIsInVybCI6IlwvZGV0YWlsc1wvYW1lc3Jlc2VhcmNoY2VudGVyaW1hZ2VsaWJyYXJ5In1dfSwibW9yZSI6W3sidGl0bGUiOiJBYm91dCIsInVybCI6IlwvYWJvdXRcLyJ9LHsidGl0bGUiOiJCbG9nIiwidXJsIjoiaHR0cHM6XC9cL2Jsb2cuYXJjaGl2ZS5vcmdcLyJ9LHsidGl0bGUiOiJQcm9qZWN0cyIsInVybCI6IlwvcHJvamVjdHNcLyJ9LHsidGl0bGUiOiJIZWxwIiwidXJsIjoiXC9hYm91dFwvZmFxcy5waHAifSx7InRpdGxlIjoiRG9uYXRlIiwidXJsIjoiXC9kb25hdGU/b3JpZ2luPXdid3d3LVRvcE5hdkRvbmF0ZUJ1dHRvbiJ9LHsidGl0bGUiOiJDb250YWN0IiwidXJsIjoiXC9hYm91dFwvY29udGFjdC5waHAifSx7InRpdGxlIjoiSm9icyIsInVybCI6IlwvYWJvdXRcL2pvYnMucGhwIn0seyJ0aXRsZSI6IlZvbHVudGVlciIsInVybCI6IlwvYWJvdXRcL3ZvbHVudGVlcnBvc2l0aW9ucy5waHAifSx7InRpdGxlIjoiUGVvcGxlIiwidXJsIjoiXC9hYm91dFwvYmlvcy5waHAifV0sInNvZnR3YXJlIjp7ImhlYWRpbmciOiJTb2Z0d2FyZSIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvaW50ZXJuZXRhcmNhZGUiLCJ0aXRsZSI6IkludGVybmV0IEFyY2FkZSIsInVybCI6IlwvZGV0YWlsc1wvaW50ZXJuZXRhcmNhZGUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2NvbnNvbGVsaXZpbmdyb29tIiwidGl0bGUiOiJDb25zb2xlIExpdmluZyBSb29tIiwidXJsIjoiXC9kZXRhaWxzXC9jb25zb2xlbGl2aW5ncm9vbSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgU29mdHdhcmUiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Ilwvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6c29mdHdhcmUmc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJPbGQgU2Nob29sIEVtdWxhdGlvbiIsInVybCI6IlwvZGV0YWlsc1wvdG9zZWMifSx7InRpdGxlIjoiTVMtRE9TIEdhbWVzIiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnlfbXNkb3NfZ2FtZXMifSx7InRpdGxlIjoiSGlzdG9yaWNhbCBTb2Z0d2FyZSIsInVybCI6IlwvZGV0YWlsc1wvaGlzdG9yaWNhbHNvZnR3YXJlIn0seyJ0aXRsZSI6IkNsYXNzaWMgUEMgR2FtZXMiLCJ1cmwiOiJcL2RldGFpbHNcL2NsYXNzaWNwY2dhbWVzIn0seyJ0aXRsZSI6IlNvZnR3YXJlIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeSJ9XSwibGlua3MiOlt7InRpdGxlIjoiS29kaSBBcmNoaXZlIGFuZCBTdXBwb3J0IEZpbGUiLCJ1cmwiOiJcL2RldGFpbHNcL2tvZGlfYXJjaGl2ZSJ9LHsidGl0bGUiOiJWaW50YWdlIFNvZnR3YXJlIiwidXJsIjoiXC9kZXRhaWxzXC92aW50YWdlc29mdHdhcmUifSx7InRpdGxlIjoiQVBLIiwidXJsIjoiXC9kZXRhaWxzXC9hcGthcmNoaXZlIn0seyJ0aXRsZSI6Ik1TLURPUyIsInVybCI6IlwvZGV0YWlsc1wvc29mdHdhcmVsaWJyYXJ5X21zZG9zIn0seyJ0aXRsZSI6IkNELVJPTSBTb2Z0d2FyZSIsInVybCI6IlwvZGV0YWlsc1wvY2Qtcm9tcyJ9LHsidGl0bGUiOiJDRC1ST00gU29mdHdhcmUgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvY2Ryb21zb2Z0d2FyZSJ9LHsidGl0bGUiOiJTb2Z0d2FyZSBTaXRlcyIsInVybCI6IlwvZGV0YWlsc1wvc29mdHdhcmVzaXRlcyJ9LHsidGl0bGUiOiJUdWNvd3MgU29mdHdhcmUgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvdHVjb3dzIn0seyJ0aXRsZSI6IlNoYXJld2FyZSBDRC1ST01zIiwidXJsIjoiXC9kZXRhaWxzXC9jZGJic2FyY2hpdmUifSx7InRpdGxlIjoiU29mdHdhcmUgQ2Fwc3VsZXMgQ29tcGlsYXRpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlY2Fwc3VsZXMifSx7InRpdGxlIjoiQ0QtUk9NIEltYWdlcyIsInVybCI6IlwvZGV0YWlsc1wvY2Ryb21pbWFnZXMifSx7InRpdGxlIjoiWlggU3BlY3RydW0iLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeV96eF9zcGVjdHJ1bSJ9LHsidGl0bGUiOiJET09NIExldmVsIENEIiwidXJsIjoiXC9kZXRhaWxzXC9kb29tLWNkcyJ9XX0sInRleHRzIjp7ImhlYWRpbmciOiJCb29rcyIsImljb25MaW5rcyI6W3sidGl0bGUiOiJCb29rcyB0byBCb3Jyb3ciLCJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9pbmxpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL2lubGlicmFyeSJ9LHsidGl0bGUiOiJPcGVuIExpYnJhcnkiLCJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9pbWFnZXNcL3dpZGdldE9MLnBuZyIsInVybCI6Imh0dHBzOlwvXC9vcGVubGlicmFyeS5vcmdcLyJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgQm9va3MiLCJ1cmwiOiJcL2RldGFpbHNcL2Jvb2tzIn0seyJ0aXRsZSI6IkFsbCBUZXh0cyIsInVybCI6IlwvZGV0YWlsc1wvdGV4dHMifSx7InRpdGxlIjoiVGhpcyBKdXN0IEluIiwidXJsIjoiXC9zZWFyY2gucGhwP3F1ZXJ5PW1lZGlhdHlwZTp0ZXh0cyZzb3J0PS1wdWJsaWNkYXRlIn0seyJ0aXRsZSI6IlNtaXRoc29uaWFuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvc21pdGhzb25pYW4ifSx7InRpdGxlIjoiRkVETElOSyAoVVMpIiwidXJsIjoiXC9kZXRhaWxzXC9mZWRsaW5rIn0seyJ0aXRsZSI6IkdlbmVhbG9neSIsInVybCI6IlwvZGV0YWlsc1wvZ2VuZWFsb2d5In0seyJ0aXRsZSI6IkxpbmNvbG4gQ29sbGVjdGlvbiIsInVybCI6IlwvZGV0YWlsc1wvbGluY29sbmNvbGxlY3Rpb24ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkFtZXJpY2FuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvYW1lcmljYW5hIn0seyJ0aXRsZSI6IkNhbmFkaWFuIExpYnJhcmllcyIsInVybCI6IlwvZGV0YWlsc1wvdG9yb250byJ9LHsidGl0bGUiOiJVbml2ZXJzYWwgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvdW5pdmVyc2FsbGlicmFyeSJ9LHsidGl0bGUiOiJQcm9qZWN0IEd1dGVuYmVyZyIsInVybCI6IlwvZGV0YWlsc1wvZ3V0ZW5iZXJnIn0seyJ0aXRsZSI6IkNoaWxkcmVuJ3MgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvaWFjbCJ9LHsidGl0bGUiOiJCaW9kaXZlcnNpdHkgSGVyaXRhZ2UgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvYmlvZGl2ZXJzaXR5In0seyJ0aXRsZSI6IlRoZSBpbmRlcGVuZGVudCBwcmFjdGl0aW9uZXIuIiwidXJsIjoiXC9kZXRhaWxzXC9iMzE1MTYyNDUifSx7InRpdGxlIjoiQm9va3MgYnkgTGFuZ3VhZ2UiLCJ1cmwiOiJcL2RldGFpbHNcL2Jvb2tzYnlsYW5ndWFnZSJ9LHsidGl0bGUiOiJBZGRpdGlvbmFsIENvbGxlY3Rpb25zIiwidXJsIjoiXC9kZXRhaWxzXC9hZGRpdGlvbmFsX2NvbGxlY3Rpb25zIn1dfSwid2ViIjp7Im1vYmlsZUFwcHNMaW5rcyI6W3sidXJsIjoiaHR0cHM6XC9cL2FwcHMuYXBwbGUuY29tXC91c1wvYXBwXC93YXliYWNrLW1hY2hpbmVcL2lkMTIwMTg4ODMxMyIsInRpdGxlIjoiV2F5YmFjayBNYWNoaW5lIChpT1MpIiwiZXh0ZXJuYWwiOnRydWV9LHsidXJsIjoiaHR0cHM6XC9cL3BsYXkuZ29vZ2xlLmNvbVwvc3RvcmVcL2FwcHNcL2RldGFpbHM/aWQ9Y29tLmFyY2hpdmUud2F5YmFja21hY2hpbmUmaGw9ZW5fVVMiLCJ0aXRsZSI6IldheWJhY2sgTWFjaGluZSAoQW5kcm9pZCkiLCJleHRlcm5hbCI6dHJ1ZX1dLCJicm93c2VyRXh0ZW5zaW9uc0xpbmtzIjpbeyJ1cmwiOiJodHRwczpcL1wvY2hyb21lLmdvb2dsZS5jb21cL3dlYnN0b3JlXC9kZXRhaWxcL3dheWJhY2stbWFjaGluZVwvZnBubWdka2Fia21uYWRjanBlaG1sbGxrbmRwa21pYWsiLCJ0aXRsZSI6IkNocm9tZSIsImV4dGVybmFsIjp0cnVlfSx7InVybCI6Imh0dHBzOlwvXC9hZGRvbnMubW96aWxsYS5vcmdcL2VuLVVTXC9maXJlZm94XC9hZGRvblwvd2F5YmFjay1tYWNoaW5lX25ld1wvIiwidGl0bGUiOiJGaXJlZm94IiwiZXh0ZXJuYWwiOnRydWV9LHsidXJsIjoiaHR0cHM6XC9cL2FwcHMuYXBwbGUuY29tXC91c1wvYXBwXC93YXliYWNrLW1hY2hpbmVcL2lkMTQ3MjQzMjQyMj9tdD0xMiIsInRpdGxlIjoiU2FmYXJpIiwiZXh0ZXJuYWwiOnRydWV9XSwiYXJjaGl2ZUl0TGlua3MiOlt7InVybCI6Imh0dHBzOlwvXC93d3cuYXJjaGl2ZS1pdC5vcmdcL2V4cGxvcmUiLCJ0aXRsZSI6IkV4cGxvcmUgdGhlIENvbGxlY3Rpb25zIn0seyJ1cmwiOiJodHRwczpcL1wvd3d3LmFyY2hpdmUtaXQub3JnXC9ibG9nXC9sZWFybi1tb3JlXC8iLCJ0aXRsZSI6IkxlYXJuIE1vcmUifSx7InVybCI6Imh0dHBzOlwvXC93d3cuYXJjaGl2ZS1pdC5vcmdcL2NvbnRhY3QtdXMiLCJ0aXRsZSI6IkJ1aWxkIENvbGxlY3Rpb25zIn1dfSwidmlkZW8iOnsiaGVhZGluZyI6IlZpZGVvIiwiaWNvbkxpbmtzIjpbeyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC90diIsInRpdGxlIjoiVFYgTmV3cyIsInVybCI6IlwvZGV0YWlsc1wvdHYifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcLzkxMSIsInRpdGxlIjoiVW5kZXJzdGFuZGluZyA5XC8xMSIsInVybCI6IlwvZGV0YWlsc1wvOTExIn1dLCJmZWF0dXJlZExpbmtzIjpbeyJ0aXRsZSI6IkFsbCBWaWRlbyIsInVybCI6IlwvZGV0YWlsc1wvbW92aWVzIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Ilwvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6bW92aWVzJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiUHJlbGluZ2VyIEFyY2hpdmVzIiwidXJsIjoiXC9kZXRhaWxzXC9wcmVsaW5nZXIifSx7InRpdGxlIjoiRGVtb2NyYWN5IE5vdyEiLCJ1cmwiOiJcL2RldGFpbHNcL2RlbW9jcmFjeV9ub3dfdmlkIn0seyJ0aXRsZSI6Ik9jY3VweSBXYWxsIFN0cmVldCIsInVybCI6IlwvZGV0YWlsc1wvb2NjdXB5d2FsbHN0cmVldCJ9LHsidGl0bGUiOiJUViBOU0EgQ2xpcCBMaWJyYXJ5IiwidXJsIjoiXC9kZXRhaWxzXC9uc2EifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkFuaW1hdGlvbiAmIENhcnRvb25zIiwidXJsIjoiXC9kZXRhaWxzXC9hbmltYXRpb25hbmRjYXJ0b29ucyJ9LHsidGl0bGUiOiJBcnRzICYgTXVzaWMiLCJ1cmwiOiJcL2RldGFpbHNcL2FydHNhbmRtdXNpY3ZpZGVvcyJ9LHsidGl0bGUiOiJDb21wdXRlcnMgJiBUZWNobm9sb2d5IiwidXJsIjoiXC9kZXRhaWxzXC9jb21wdXRlcnNhbmR0ZWNodmlkZW9zIn0seyJ0aXRsZSI6IkN1bHR1cmFsICYgQWNhZGVtaWMgRmlsbXMiLCJ1cmwiOiJcL2RldGFpbHNcL2N1bHR1cmFsYW5kYWNhZGVtaWNmaWxtcyJ9LHsidGl0bGUiOiJFcGhlbWVyYWwgRmlsbXMiLCJ1cmwiOiJcL2RldGFpbHNcL2VwaGVtZXJhIn0seyJ0aXRsZSI6Ik1vdmllcyIsInVybCI6IlwvZGV0YWlsc1wvbW92aWVzYW5kZmlsbXMifSx7InRpdGxlIjoiTmV3cyAmIFB1YmxpYyBBZmZhaXJzIiwidXJsIjoiXC9kZXRhaWxzXC9uZXdzYW5kcHVibGljYWZmYWlycyJ9LHsidGl0bGUiOiJTcGlyaXR1YWxpdHkgJiBSZWxpZ2lvbiIsInVybCI6IlwvZGV0YWlsc1wvc3Bpcml0dWFsaXR5YW5kcmVsaWdpb24ifSx7InRpdGxlIjoiU3BvcnRzIFZpZGVvcyIsInVybCI6IlwvZGV0YWlsc1wvc3BvcnRzIn0seyJ0aXRsZSI6IlRlbGV2aXNpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3RlbGV2aXNpb24ifSx7InRpdGxlIjoiVmlkZW9nYW1lIFZpZGVvcyIsInVybCI6IlwvZGV0YWlsc1wvZ2FtZXZpZGVvcyJ9LHsidGl0bGUiOiJWbG9ncyIsInVybCI6IlwvZGV0YWlsc1wvdmxvZ3MifSx7InRpdGxlIjoiWW91dGggTWVkaWEiLCJ1cmwiOiJcL2RldGFpbHNcL3lvdXRoX21lZGlhIn1dfSwidXNlciI6W10sInNpZ25lZE91dCI6W3sidXJsIjoiXC9hY2NvdW50XC9zaWdudXAiLCJ0aXRsZSI6IlNpZ24gdXAgZm9yIGZyZWUiLCJhbmFseXRpY3NFdmVudCI6IkF2YXRhck1lbnUtU2lnbnVwIn0seyJ1cmwiOiJcL2FjY291bnRcL2xvZ2luIiwidGl0bGUiOiJMb2cgaW4iLCJhbmFseXRpY3NFdmVudCI6IkF2YXRhck1lbnUtTG9naW4ifV19">
+                        <div slot="opt-sec-logo">
+              <a class="anniv-logo-link" href="https://anniversary.archive.org" title="Celebrate Internet Archive's 25th Anniversary" style="display: flex;" data-event-click-tracking="Anniversary25|TopNavLogo">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.6 36.87" style="height: 30px;">
+                  <title>Internet Archive's 25th Anniversary Logo</title>
+                  <g id="Layer_2" data-name="Layer 2">
+                    <g id="Layer_1-2" data-name="Layer 1">
+                      <path style="fill: rgb(255, 255, 255); opacity: 1;" d="M34.4,22.86c2.59-.82,4.68-1.33,7.11-1.93,4.47-1.12,7.62-4.47,7.62-8.74,0-7-5-12.19-11.68-12.19-6.4,0-11.38,5.74-11.58,13.41h.81c1-3.35,5.29-5.89,10.57-5.89,4.87,0,8.53,2.64,8.53,6.7,0,2.44-2,4.27-5.08,5.08-2.08.56-4.21,1.12-6.3,1.63-4.92,1.16-8.33,5.18-8.33,9.54v5.9H48.73V28.85H28.61A8.39,8.39,0,0,1,34.4,22.86Zm29-8.44a13.19,13.19,0,0,0-8,2.49l-.41-.2.51-8.58h19.2V.51H54.21L53.14,18.84l1.68.71a9.45,9.45,0,0,1,1.83-1.27,13.11,13.11,0,0,1,6.5-1.82c5.68,0,9.6,2.74,9.6,6.4S68.58,29.25,63,29.25c-5.18,0-9.65-2.53-11.07-6.19h-.81C51.11,31,56,36.87,63.4,36.87c7.11,0,12.49-4.67,12.49-11.58C75.89,19,70.46,14.42,63.35,14.42ZM18.52,32.66C12.39,32.6,7.91,25.45,7.91,16.75S12.43,1.82,18.59,1.82h.05V.09C7.86.09,0,7,0,16.75s7.73,17.5,18.38,17.63H3.14v2H20.53V19h-2ZM88.64.48H79l-.35.88,25.5,17L78.61,35.44l.36.9h9.65L106.56,18.4Zm13.61,0H95.9l-.35.88,17,17-17,17.05.35.89h6.33L114.6,18.4Z"></path>
+                    </g>
+                  </g>
+                </svg>
+              </a>
+            </div>
+            <div slot="opt-sec-logo-mobile">
+              <a class="anniv-logo-link" href="https://anniversary.archive.org" title="Celebrate Internet Archive's 25th Anniversary" style="display: flex;" data-event-click-tracking="Anniversary25|TopNavLogo">
+                <svg height="30" viewBox="0 0 42 30" width="42" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m6.89441101 18.3847952c2.09337919-.6594721 3.78263109-1.0696316 5.74668959-1.5521722 3.6128977-.9007423 6.1588994-3.5949271 6.1588994-7.02900738 0-5.62963982-4.0412726-9.80361562-9.44041273-9.80361562-5.17282889 0-9.19793637 4.61630465-9.35958727 10.7847814h.65468616c.80825451-2.69418475 4.27566638-4.73693977 8.54325021-4.73693977 3.93619953 0 6.89441103 2.12317844 6.89441103 5.38836957 0 1.9623316-1.6165091 3.4340802-4.105933 4.08551-1.6811693.4503712-3.40275146.9007424-5.09200339 1.3109018-3.97661221.9329118-6.73276011 4.1659335-6.73276011 7.6723949v4.7449821h18.3150473v-6.0478416h-16.26208083c.59192357-2.3174159 2.37222905-4.1500562 4.67979364-4.8173632zm24.22752669-6.44482c-2.3496035-.0494972-4.6516613.653692-6.557606 2.0030941l-.3360773-.1608911.4180474-6.9022277h15.7382543v-6.1299505h-16.7956682l-.8770798 14.7456683 1.3770972.5711634c.4572285-.397399.960743-.7403336 1.5000524-1.0216584 1.6153611-.9360711 3.4522659-1.4408386 5.3280548-1.4641089 4.6559002 0 7.8691272 2.2042079 7.8691272 5.1485148s-3.4181521 5.1404703-7.9920823 5.1404703c-4.2460499 0-7.9101122-2.0352723-9.0740872-4.9795792h-.6639702c-.0081845 6.3873762 4.0001522 11.1095297 10.0659377 11.1095297 5.8280723 0 10.2380623-3.7568069 10.2380623-9.3155941 0-5.0600247-4.450975-8.7444307-10.2790473-8.7444307z" fill="#fff" style="opacity: 1;"></path>
+                </svg>
+              </a>
+            </div>
+                                                </ia-topnav>
+
+                  </div>
+            <input class="js-tvsearch" type="hidden" value="{&quot;ands&quot;:[],&quot;minday&quot;:&quot;06/04/2009&quot;,&quot;maxday&quot;:&quot;12/08/2021&quot;}">
+
+
+    <div style="display: block; float: right; width: 28px; margin-top: 4px;">
+        <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href), '', 'height=400,width=600'); return false;" class="social_button" title="Share on Facebook"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(window.location.href) + '&amp;via=internetarchive', '', 'height=400,width=600'); return false;" class="social_button" title="Share on Twitter"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+    </div>
+    <script>
+      var config = {"api_url_anchor": "/__wb/search/anchor?q={{query}}", "api_url_calendar_captures": "/__wb/calendarcaptures?url={{url}}\u0026selected_year={{year}}", "api_url_host": "/__wb/search/host?q={{query}}", "api_url_metadata": "/__wb/search/metadata?q={{query}}", "api_url_sitemap": "/web/timemap/json?url={{url}}/\u0026fl=timestamp:4,original,urlkey\u0026matchType=prefix\u0026filter=statuscode:200\u0026filter=mimetype:text/html\u0026collapse=urlkey\u0026collapse=timestamp:4\u0026limit=100000", "api_url_sparkline": "/__wb/sparkline?output=json\u0026url={{url}}\u0026collection=web", "bundling": {"public_path": "/static/bower_components/wayback-search-js/dist"}, "diff": {"cdxServer": "/web/timemap", "diffgraphPrefix": "/web/diffgraph/", "limit": 3000, "maxSunburstLevelLength": "70", "snapshotsPrefix": "/web/", "sparklineURL": "/__wb/sparkline", "urlPrefix": "/web/diff/", "waybackDiscoverDiff": "https://gext-api.archive.org/services/simhash", "webMonitoringProcessingURL": "https://gext-api.archive.org/services/diff"}, "features": {"beta_promo": false, "changes_calendar": true, "landing": "carousel", "landing_layout_with_trend": false, "search": "v1"}, "num_of_explored_web_pages": "635 billion", "search_v2": {"search_collections": {"options": {"pdf": {"counter": "298M", "search_types": {"default": "pdf", "horizontal_line_room": 1, "options": [{"icon": "iconochive-texts", "id": "pdf", "items": ["application/pdf"], "title": "PDFs", "type": "application/pdf"}]}, "title": "PDFs"}}}}, "url_playback": "/web/{{date}}/{{url}}", "url_playback_screenshot": "/web/", "url_save_page_now": "/save/{{query}}", "url_search_page": "/web/*/{{url}}*", "url_thumb": "https://web.archive.org/thumb/{{item}}?generate=1"};
+      $(document).ready(function(){
+	var e = $('#react-wayback-search'), c = e.attr('component');
+	ReactDOM.render(
+	  React.createElement(window[c], { config: config }),
+	  e.get(0)
+	);
+      });
+    </script>
+    <div id="react-wayback-search" component="WaybackSearchComponent"><div class="search-toolbar"><div id="donation-link"><a href="//archive.org/donate/?origin=wbwww-CalndrDonateButton" class="donation-button" data-event-click-tracking="Wayback|DonateButton"><span class="beta_button">DONATE</span></a></div><div class="search-toolbar-logo-container"><a href="/"><div class="search-toolbar-logo" alt="logo: Internet Archive's Wayback Machine"></div></a></div><div class="search-text-container"><div class="global-saved-web-pages-count-boxout">Explore more than 635 billion <a target="_blank" rel="noopener noreferrer" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web&nbsp;pages</a> saved&nbsp;over&nbsp;time</div><form><div class="rbt has-aux" tabindex="-1" style="outline: none; position: relative;"><div style="display: flex; flex: 1 1 0%; height: 100%; position: relative;"><input autocomplete="off" placeholder="Enter a URL or words related to a site’s home page" type="text" aria-autocomplete="both" aria-expanded="false" aria-haspopup="listbox" role="combobox" class="rbt-input-main form-control rbt-input" value="http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><input aria-hidden="true" class="rbt-input-hint" readonly="" tabindex="-1" value="" style="background-color: transparent; border-color: transparent; box-shadow: none; color: rgba(0, 0, 0, 0.35); left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%; border-style: solid; border-width: 1px; font-size: 14px; height: 34px; line-height: 20px; margin: 0px; padding: 6px 34px 6px 12px;"></div><div class="rbt-aux"><button aria-label="Clear" class="close rbt-close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Clear</span></button></div></div><input type="submit" class="hidden-submit-btn" tabindex="-1"></form><div class="search-size">Results: 50<span> </span><a href="#">100</a><span> </span><a href="#">500</a><span> </span></div></div></div><nav class="view-navbar"><span class="navbar-option beta-badge-container not-selected-option" title="Calendar of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Calendar</a></span><span class="navbar-option beta-badge-container beta-feature not-selected-option" title="Collections of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/collections/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Collections</a></span><span class="navbar-option beta-badge-container beta-feature not-selected-option" title="Changes of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/changes/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Changes</a></span><span class="navbar-option beta-badge-container not-selected-option" title="Summary of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/details/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374">Summary</a></span><span class="navbar-option beta-badge-container selected-option" title="Site&amp;nbsp;Map of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><span>Site&nbsp;Map</span></span><span class="navbar-option beta-badge-container not-selected-option" title="URLs of http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374"><a href="/web/*/http://fox.presidencia.gob.mx/actividades/discursos/?contenido=28374/*">URLs</a></span></nav><div id="wb-site-map" class="container text-center"><div class="result-headline text-center"><span class="note-query-type">host</span><span class="note-query-value">fox.presidencia.gob.mx</span></div><p>This “Site Map” feature groups all the archives we have for websites by year, then builds a visual site map, in the form of a radial-tree graph, for each year.</p><p>The center circle is the “root” of the website and successive rings moving out from the center present pages from the site.</p><p>As you roll-over the rings and cells note the corresponding URLs change at the top, and that you can click on any of the individual pages to go directly to an archive of that URL.</p><div id="wb-sequence" title="fox.presidencia.gob.mx"><div class="rt-content" style="display: block;"><div class="div-btn"><button class="year-btn" id="2006">2006</button><button class="year-btn" id="2007">2007</button><button class="year-btn" id="2008">2008</button><button class="year-btn" id="2009">2009</button><button class="year-btn" id="2010">2010</button><button class="year-btn" id="2011">2011</button><button class="year-btn" id="2012">2012</button><button class="year-btn" id="2013">2013</button><button class="year-btn" id="2014">2014</button><button class="year-btn" id="2015">2015</button><button class="year-btn" id="2016">2016</button><button class="year-btn" id="2017">2017</button><button class="year-btn" id="2018">2018</button><button class="year-btn active-btn" id="2019">2019</button></div><p class="sequence"></p><div id="chart"><svg width="319" height="319"><g id="d3_container" transform="translate(159.5,159.5)"><circle r="159.5" style="opacity: 0;"></circle><a xlink:href="https://web.archive.org/web/20190630"><path display="none" d="M4.367737618657016e-15,-71.3305684822433A71.3305684822433,71.3305684822433,0,1,1,-4.367737618657016e-15,71.3305684822433A71.3305684822433,71.3305684822433,0,1,1,4.367737618657016e-15,-71.3305684822433Z" fill-rule="evenodd" style="fill: rgb(166, 206, 227); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx"><path d="M6.176913777191918e-15,-100.87665735937131A100.87665735937131,100.87665735937131,0,1,1,-6.176913777191918e-15,100.87665735937131A100.87665735937131,100.87665735937131,0,1,1,6.176913777191918e-15,-100.87665735937131M5.025105873489936e-14,-71.3305684822433A71.3305684822433,71.3305684822433,0,1,0,-5.025105873489936e-14,71.3305684822433A71.3305684822433,71.3305684822433,0,1,0,5.025105873489936e-14,-71.3305684822433Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en"><path d="M7.56514346964385e-15,-123.54816874401659A123.54816874401659,123.54816874401659,0,0,1,71.07956691427165,101.05367468469208L58.03622335932633,82.50997987023379A100.87665735937131,100.87665735937131,0,0,0,6.176913777191918e-15,-100.87665735937131Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades"><path d="M71.07956691427165,101.05367468469208A123.54816874401659,123.54816874401659,0,0,1,-74.89803937101705,98.25697786100272L-61.15399306462564,80.2264864758A100.87665735937131,100.87665735937131,0,0,0,58.03622335932633,82.50997987023379Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias"><path d="M-74.89803937101705,98.25697786100272A123.54816874401659,123.54816874401659,0,0,1,-110.71961345400015,54.82077340385475L-90.40218582683059,44.76097404806102A100.87665735937131,100.87665735937131,0,0,0,-61.15399306462564,80.2264864758Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico"><path d="M-110.71961345400015,54.82077340385475A123.54816874401659,123.54816874401659,0,0,1,-116.27612945953078,41.761366331939335L-94.93906214721653,34.098012824898724A100.87665735937131,100.87665735937131,0,0,0,-90.40218582683059,44.76097404806102Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/acciones"><path d="M-116.27612945953078,41.761366331939335A123.54816874401659,123.54816874401659,0,0,1,-117.7903783255392,37.2770274287844L-96.1754411689861,30.43656544275153A100.87665735937131,100.87665735937131,0,0,0,-94.93906214721653,34.098012824898724Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=1503"><path d="M-117.7903783255392,37.2770274287844A123.54816874401659,123.54816874401659,0,0,1,-119.13175356825252,32.73797934743604L-97.27066946840263,26.730448203664032A100.87665735937131,100.87665735937131,0,0,0,-96.1754411689861,30.43656544275153Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=21988"><path d="M-119.13175356825252,32.73797934743604A123.54816874401659,123.54816874401659,0,0,1,-120.29828653452864,28.15088376688099L-98.22313964690655,22.98510034575216A100.87665735937131,100.87665735937131,0,0,0,-97.27066946840263,26.730448203664032Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=23646"><path d="M-120.29828653452864,28.15088376688099A123.54816874401659,123.54816874401659,0,0,1,-121.2882651763765,23.522472882436784L-99.0314538231668,19.206018683474788A100.87665735937131,100.87665735937131,0,0,0,-98.22313964690655,22.98510034575216Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=27307"><path d="M-121.2882651763765,23.522472882436784A123.54816874401659,123.54816874401659,0,0,1,-122.10023656362276,18.859539525326696L-99.69442568466451,15.398749540300557A100.87665735937131,100.87665735937131,0,0,0,-99.0314538231668,19.206018683474788Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=28417"><path d="M-122.10023656362276,18.859539525326696A123.54816874401659,123.54816874401659,0,0,1,-122.73300901628707,14.168927193263244L-100.21108222877018,11.568880608713322A100.87665735937131,100.87665735937131,0,0,0,-99.69442568466451,15.398749540300557Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=28420"><path d="M-122.73300901628707,14.168927193263244A123.54816874401659,123.54816874401659,0,0,1,-123.18565385353688,9.457520006671572L-100.58066519075923,7.722032749502904A100.87665735937131,100.87665735937131,0,0,0,-100.21108222877018,11.568880608713322Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=28425"><path d="M-123.18565385353688,9.457520006671572A123.54816874401659,123.54816874401659,0,0,1,-123.45750675665452,4.732232605293422L-100.80263215667007,3.8638517423767853A100.87665735937131,100.87665735937131,0,0,0,-100.58066519075923,7.722032749502904Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=28427"><path d="M-123.45750675665452,4.732232605293422A123.54816874401659,123.54816874401659,0,0,1,-123.54816874401659,-2.0433534760452241e-13L-100.87665735937131,-1.6683911268177099e-13A100.87665735937131,100.87665735937131,0,0,0,-100.80263215667007,3.8638517423767853Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=28429"><path d="M-123.54816874401659,-2.0433534760452241e-13A123.54816874401659,123.54816874401659,0,0,1,-123.45750675665451,-4.732232605293832L-100.80263215667006,-3.8638517423771193A100.87665735937131,100.87665735937131,0,0,0,-100.87665735937131,-1.6683911268177099e-13Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades?contenido=5981"><path d="M-123.45750675665451,-4.732232605293832A123.54816874401659,123.54816874401659,0,0,1,-123.18565385353685,-9.45752000667198L-100.5806651907592,-7.722032749503237A100.87665735937131,100.87665735937131,0,0,0,-100.80263215667006,-3.8638517423771193Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/agenda"><path d="M-123.18565385353685,-9.45752000667198A123.54816874401659,123.54816874401659,0,0,1,-122.73300901628703,-14.168927193263649L-100.21108222877014,-11.568880608713652A100.87665735937131,100.87665735937131,0,0,0,-100.5806651907592,-7.722032749503237Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/agenda?pagina=3"><path d="M-122.73300901628703,-14.168927193263649A123.54816874401659,123.54816874401659,0,0,1,-122.10023656362269,-18.8595395253271L-99.69442568466445,-15.398749540300887A100.87665735937131,100.87665735937131,0,0,0,-100.21108222877014,-11.568880608713652Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias?contenido=24808&amp;pagina=90"><path d="M-122.10023656362269,-18.8595395253271A123.54816874401659,123.54816874401659,0,0,1,-121.28826517637643,-23.522472882437185L-99.03145382316674,-19.206018683475115A100.87665735937131,100.87665735937131,0,0,0,-99.69442568466445,-15.398749540300887Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/cambio"><path d="M-121.28826517637643,-23.522472882437185A123.54816874401659,123.54816874401659,0,0,1,-120.29828653452854,-28.15088376688139L-98.22313964690647,-22.985100345752482A100.87665735937131,100.87665735937131,0,0,0,-99.03145382316674,-19.206018683475115Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/coberturas"><path d="M-120.29828653452854,-28.15088376688139A123.54816874401659,123.54816874401659,0,0,1,-119.13175356825244,-32.73797934743643L-97.27066946840255,-26.730448203664352A100.87665735937131,100.87665735937131,0,0,0,-98.22313964690647,-22.985100345752482Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/directorio"><path d="M-119.13175356825244,-32.73797934743643A123.54816874401659,123.54816874401659,0,0,1,-117.79037832553908,-37.27702742878479L-96.175441168986,-30.43656544275185A100.87665735937131,100.87665735937131,0,0,0,-97.27066946840255,-26.730448203664352Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/documentos"><path d="M-117.79037832553908,-37.27702742878479A123.54816874401659,123.54816874401659,0,0,1,-116.27612945953064,-41.76136633193972L-94.93906214721642,-34.09801282489904A100.87665735937131,100.87665735937131,0,0,0,-96.175441168986,-30.43656544275185Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/estadomayor"><path d="M-116.27612945953064,-41.76136633193972A123.54816874401659,123.54816874401659,0,0,1,-114.59122933925048,-46.18441467117776L-93.56334695980296,-37.70941667116496A100.87665735937131,100.87665735937131,0,0,0,-94.93906214721642,-34.09801282489904Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/evaluacion"><path d="M-114.59122933925048,-46.18441467117776A123.54816874401659,123.54816874401659,0,0,1,-112.73815078797007,-50.539681013129886L-92.050314658492,-41.26547674839847A100.87665735937131,100.87665735937131,0,0,0,-93.56334695980296,-37.70941667116496Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/favicon.ico"><path d="M-112.73815078797007,-50.539681013129886A123.54816874401659,123.54816874401659,0,0,1,-110.71961345399995,-54.820773403855114L-90.40218582683043,-44.76097404806132A100.87665735937131,100.87665735937131,0,0,0,-92.050314658492,-41.26547674839847Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/foxcontigo"><path d="M-110.71961345399995,-54.820773403855114A123.54816874401659,123.54816874401659,0,0,1,-108.53857981923079,-59.02140874991434L-88.62137932115304,-48.19077844584284A100.87665735937131,100.87665735937131,0,0,0,-90.40218582683043,-44.76097404806132Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/foxcontigo?contenido=17673&amp;pagina=5"><path d="M-108.53857981923079,-59.02140874991434A123.54816874401659,123.54816874401659,0,0,1,-106.19825085128258,-63.13542203967641L-86.71050872057721,-51.549856230824794A100.87665735937131,100.87665735937131,0,0,0,-88.62137932115304,-48.19077844584284Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/foxcontigo?contenido=27577&amp;pagina=1"><path d="M-106.19825085128258,-63.13542203967641A123.54816874401659,123.54816874401659,0,0,1,-103.70206130564334,-67.15677539132285L-84.67237849121524,-54.83327749314636A100.87665735937131,100.87665735937131,0,0,0,-86.71050872057721,-51.549856230824794Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/gabinete"><path d="M-103.70206130564334,-67.15677539132285A123.54816874401659,123.54816874401659,0,0,1,-101.05367468469184,-71.079566914272L-82.50997987023361,-58.036223359326605A100.87665735937131,100.87665735937131,0,0,0,-84.67237849121524,-54.83327749314636Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/images"><path d="M-101.05367468469184,-71.079566914272A123.54816874401659,123.54816874401659,0,0,1,-98.25697786100253,-74.8980393710173L-80.22648647579983,-61.15399306462585A100.87665735937131,100.87665735937131,0,0,0,-82.50997987023361,-58.036223359326605Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/licitaciones"><path d="M-98.25697786100253,-74.8980393710173A123.54816874401659,123.54816874401659,0,0,1,-95.31607537282412,-78.60658862666736L-77.82524964936033,-64.18201085206618A100.87665735937131,100.87665735937131,0,0,0,-80.22648647579983,-61.15399306462585Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/martadefox"><path d="M-95.31607537282412,-78.60658862666736A123.54816874401659,123.54816874401659,0,0,1,-92.23528340010371,-82.19977187378656L-75.30979353708453,-67.11583268798579A100.87665735937131,100.87665735937131,0,0,0,-77.82524964936033,-64.18201085206618Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15003"><path d="M-92.23528340010371,-82.19977187378656A123.54816874401659,123.54816874401659,0,0,1,-89.01912342989749,-85.6723156204656L-72.68380991769455,-69.95115278427119A100.87665735937131,100.87665735937131,0,0,0,-75.30979353708453,-67.11583268798579Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15004"><path d="M-89.01912342989749,-85.6723156204656A123.54816874401659,123.54816874401659,0,0,1,-85.672315620465,-89.01912342989807L-69.95115278427069,-72.68380991769502A100.87665735937131,100.87665735937131,0,0,0,-72.68380991769455,-69.95115278427119Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15005"><path d="M-85.672315620465,-89.01912342989807A123.54816874401659,123.54816874401659,0,0,1,-82.19977187378593,-92.23528340010427L-67.11583268798528,-75.30979353708499A100.87665735937131,100.87665735937131,0,0,0,-69.95115278427069,-72.68380991769502Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15006"><path d="M-82.19977187378593,-92.23528340010427A123.54816874401659,123.54816874401659,0,0,1,-78.6065886266667,-95.31607537282464L-64.18201085206566,-77.82524964936076A100.87665735937131,100.87665735937131,0,0,0,-67.11583268798528,-75.30979353708499Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15007"><path d="M-78.6065886266667,-95.31607537282464A123.54816874401659,123.54816874401659,0,0,1,-74.89803937101664,-98.25697786100302L-61.153993064625304,-80.22648647580026A100.87665735937131,100.87665735937131,0,0,0,-64.18201085206566,-77.82524964936076Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?contenido=15008"><path d="M-74.89803937101664,-98.25697786100302A123.54816874401659,123.54816874401659,0,0,1,-71.07956691427131,-101.05367468469233L-58.036223359326044,-82.509979870234A100.87665735937131,100.87665735937131,0,0,0,-61.153993064625304,-80.22648647580026Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico?imprimir=true"><path d="M-71.07956691427131,-101.05367468469233A123.54816874401659,123.54816874401659,0,0,1,-67.15677539132214,-103.70206130564381L-54.83327749314579,-84.67237849121562A100.87665735937131,100.87665735937131,0,0,0,-58.036223359326044,-82.509979870234Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/multimedia"><path d="M-67.15677539132214,-103.70206130564381A123.54816874401659,123.54816874401659,0,0,1,-63.135422039675696,-106.198250851283L-51.54985623082421,-86.71050872057755A100.87665735937131,100.87665735937131,0,0,0,-54.83327749314579,-84.67237849121562Z" fill-rule="evenodd" style="fill: rgb(202, 178, 214); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/pages"><path d="M-63.135422039675696,-106.198250851283A123.54816874401659,123.54816874401659,0,0,1,-59.021408749913604,-108.53857981923119L-48.190778445842234,-88.62137932115337A100.87665735937131,100.87665735937131,0,0,0,-51.54985623082421,-86.71050872057755Z" fill-rule="evenodd" style="fill: rgb(255, 255, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/pinos"><path d="M-59.021408749913604,-108.53857981923119A123.54816874401659,123.54816874401659,0,0,1,-54.82077340385437,-110.71961345400034L-44.76097404806071,-90.40218582683075A100.87665735937131,100.87665735937131,0,0,0,-48.190778445842234,-88.62137932115337Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/robots.txt"><path d="M-54.82077340385437,-110.71961345400034A123.54816874401659,123.54816874401659,0,0,1,-50.539681013129126,-112.73815078797041L-41.26547674839785,-92.05031465849228A100.87665735937131,100.87665735937131,0,0,0,-44.76097404806071,-90.40218582683075Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio"><path d="M-50.539681013129126,-112.73815078797041A123.54816874401659,123.54816874401659,0,0,1,-46.18441467117698,-114.59122933925079L-37.70941667116432,-93.56334695980321A100.87665735937131,100.87665735937131,0,0,0,-41.26547674839785,-92.05031465849228Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?contenido=19388"><path d="M-46.18441467117698,-114.59122933925079A123.54816874401659,123.54816874401659,0,0,1,-41.76136633193893,-116.27612945953094L-34.09801282489839,-94.93906214721666A100.87665735937131,100.87665735937131,0,0,0,-37.70941667116432,-93.56334695980321Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?contenido=19389"><path d="M-41.76136633193893,-116.27612945953094A123.54816874401659,123.54816874401659,0,0,1,-37.27702742878399,-117.79037832553932L-30.436565442751196,-96.1754411689862A100.87665735937131,100.87665735937131,0,0,0,-34.09801282489839,-94.93906214721666Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?contenido=19392"><path d="M-37.27702742878399,-117.79037832553932A123.54816874401659,123.54816874401659,0,0,1,-32.73797934743562,-119.13175356825265L-26.73044820366369,-97.27066946840273A100.87665735937131,100.87665735937131,0,0,0,-30.436565442751196,-96.1754411689862Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?contenido=19393"><path d="M-32.73797934743562,-119.13175356825265A123.54816874401659,123.54816874401659,0,0,1,-28.15088376688057,-120.29828653452874L-22.985100345751814,-98.22313964690663A100.87665735937131,100.87665735937131,0,0,0,-26.73044820366369,-97.27066946840273Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?contenido=19401"><path d="M-28.15088376688057,-120.29828653452874A123.54816874401659,123.54816874401659,0,0,1,-23.522472882436357,-121.28826517637658L-19.20601868347444,-99.03145382316687A100.87665735937131,100.87665735937131,0,0,0,-22.985100345751814,-98.22313964690663Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/servicio?imprimir=true"><path d="M-23.522472882436357,-121.28826517637658A123.54816874401659,123.54816874401659,0,0,1,-18.85953952532627,-122.10023656362283L-15.39874954030021,-99.69442568466457A100.87665735937131,100.87665735937131,0,0,0,-19.20601868347444,-99.03145382316687Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/serviciosocial"><path d="M-18.85953952532627,-122.10023656362283A123.54816874401659,123.54816874401659,0,0,1,-14.168927193262814,-122.73300901628711L-11.568880608712972,-100.21108222877021A100.87665735937131,100.87665735937131,0,0,0,-15.39874954030021,-99.69442568466457Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/tecnologia"><path d="M-14.168927193262814,-122.73300901628711A123.54816874401659,123.54816874401659,0,0,1,-9.45752000667114,-123.18565385353692L-7.722032749502553,-100.58066519075926A100.87665735937131,100.87665735937131,0,0,0,-11.568880608712972,-100.21108222877021Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/transparencia"><path d="M-9.45752000667114,-123.18565385353692A123.54816874401659,123.54816874401659,0,0,1,-4.732232605292992,-123.45750675665454L-3.863851742376434,-100.80263215667007A100.87665735937131,100.87665735937131,0,0,0,-7.722032749502553,-100.58066519075926Z" fill-rule="evenodd" style="fill: rgb(31, 120, 180); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/vicentefox"><path d="M-4.732232605292992,-123.45750675665454A123.54816874401659,123.54816874401659,0,0,1,6.357014732224989e-13,-123.54816874401659L5.190480793768888e-13,-100.87665735937131A100.87665735937131,100.87665735937131,0,0,0,-3.863851742376434,-100.80263215667007Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet"><path d="M8.735475237314033e-15,-142.6611369644866A142.6611369644866,142.6611369644866,0,0,1,32.50584064146939,-138.90849622752165L28.150883766881144,-120.2982865345286A123.54816874401659,123.54816874401659,0,0,0,7.56514346964385e-15,-123.54816874401659Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/activities"><path d="M32.50584064146939,-138.90849622752165A142.6611369644866,142.6611369644866,0,0,1,37.802562377933384,-137.5614999833255L32.73797934743619,-119.13175356825249A123.54816874401659,123.54816874401659,0,0,0,28.150883766881144,-120.2982865345286Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17932"><path d="M37.802562377933384,-137.5614999833255A142.6611369644866,142.6611369644866,0,0,1,43.04380364119562,-136.0126132683958L37.27702742878453,-117.79037832553917A123.54816874401659,123.54816874401659,0,0,0,32.73797934743619,-119.13175356825249Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17933"><path d="M43.04380364119562,-136.0126132683958A142.6611369644866,142.6611369644866,0,0,1,48.221872186943614,-134.2641092875757L41.76136633193943,-116.27612945953075A123.54816874401659,123.54816874401659,0,0,0,37.27702742878453,-117.79037832553917Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17934"><path d="M48.221872186943614,-134.2641092875757A142.6611369644866,142.6611369644866,0,0,1,53.32916848553924,-132.31855421157294L46.18441467117748,-114.59122933925059A123.54816874401659,123.54816874401659,0,0,0,41.76136633193943,-116.27612945953075Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17937"><path d="M53.32916848553924,-132.31855421157294A142.6611369644866,142.6611369644866,0,0,1,58.35819687537641,-130.17880341075045L50.539681013129616,-112.7381507879702A123.54816874401659,123.54816874401659,0,0,0,46.18441467117748,-114.59122933925059Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17938"><path d="M58.35819687537641,-130.17880341075045A142.6611369644866,142.6611369644866,0,0,1,63.301576563798115,-127.84799726447656L54.820773403854815,-110.71961345400011A123.54816874401659,123.54816874401659,0,0,0,50.539681013129616,-112.7381507879702Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17940"><path d="M63.301576563798115,-127.84799726447656A142.6611369644866,142.6611369644866,0,0,1,68.1520524594276,-125.32955655218537L59.02140874991402,-108.53857981923096A123.54816874401659,123.54816874401659,0,0,0,54.820773403854815,-110.71961345400011Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17941"><path d="M68.1520524594276,-125.32955655218537A142.6611369644866,142.6611369644866,0,0,1,72.90250582001528,-122.62717743291101L63.13542203967611,-106.19825085128275A123.54816874401659,123.54816874401659,0,0,0,59.02140874991402,-108.53857981923096Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17942"><path d="M72.90250582001528,-122.62717743291101A142.6611369644866,142.6611369644866,0,0,1,77.54596470017461,-119.74482602066476L67.15677539132253,-103.70206130564355A123.54816874401659,123.54816874401659,0,0,0,63.13542203967611,-106.19825085128275Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17944"><path d="M77.54596470017461,-119.74482602066476A142.6611369644866,142.6611369644866,0,0,1,82.07561418367354,-116.68673256361568L71.07956691427167,-101.05367468469207A123.54816874401659,123.54816874401659,0,0,0,67.15677539132253,-103.70206130564355Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17945"><path d="M82.07561418367354,-116.68673256361568A142.6611369644866,142.6611369644866,0,0,1,86.4848063852637,-113.4573852356181L74.89803937101698,-98.25697786100277A123.54816874401659,123.54816874401659,0,0,0,71.07956691427167,-101.05367468469207Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=17946"><path d="M86.4848063852637,-113.4573852356181A142.6611369644866,142.6611369644866,0,0,1,90.76707020736879,-110.06152354919764L78.60658862666705,-95.31607537282439A123.54816874401659,123.54816874401659,0,0,0,74.89803937101698,-98.25697786100277Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18122"><path d="M90.76707020736879,-110.06152354919764A142.6611369644866,142.6611369644866,0,0,1,94.91612083731265,-106.50413139966294L82.19977187378625,-92.235283400104A123.54816874401659,123.54816874401659,0,0,0,78.60658862666705,-95.31607537282439Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18133"><path d="M94.91612083731265,-106.50413139966294A142.6611369644866,142.6611369644866,0,0,1,98.92586897114842,-102.79042975055204L85.67231562046527,-89.0191234298978A123.54816874401659,123.54816874401659,0,0,0,82.19977187378625,-92.235283400104Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18135"><path d="M98.92586897114842,-102.79042975055204A142.6611369644866,142.6611369644866,0,0,1,102.790429750552,-98.92586897114849L89.01912342989776,-85.67231562046533A123.54816874401659,123.54816874401659,0,0,0,85.67231562046527,-89.0191234298978Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18148"><path d="M102.790429750552,-98.92586897114849A142.6611369644866,142.6611369644866,0,0,1,106.50413139966288,-94.91612083731269L92.23528340010395,-82.19977187378629A123.54816874401659,123.54816874401659,0,0,0,89.01912342989776,-85.67231562046533Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18150"><path d="M106.50413139966288,-94.91612083731269A142.6611369644866,142.6611369644866,0,0,1,110.0615235491976,-90.76707020736883L95.31607537282434,-78.60658862666708A123.54816874401659,123.54816874401659,0,0,0,92.23528340010395,-82.19977187378629Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18344"><path d="M110.0615235491976,-90.76707020736883A142.6611369644866,142.6611369644866,0,0,1,113.45738523561805,-86.48480638526375L98.25697786100272,-74.89803937101703A123.54816874401659,123.54816874401659,0,0,0,95.31607537282434,-78.60658862666708Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18346"><path d="M113.45738523561805,-86.48480638526375A142.6611369644866,142.6611369644866,0,0,1,116.68673256361564,-82.0756141836736L101.05367468469203,-71.07956691427172A123.54816874401659,123.54816874401659,0,0,0,98.25697786100272,-74.89803937101703Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18347"><path d="M116.68673256361564,-82.0756141836736A142.6611369644866,142.6611369644866,0,0,1,119.74482602066473,-77.54596470017466L103.70206130564353,-67.15677539132258A123.54816874401659,123.54816874401659,0,0,0,101.05367468469203,-71.07956691427172Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18352"><path d="M119.74482602066473,-77.54596470017466A142.6611369644866,142.6611369644866,0,0,1,122.62717743291098,-72.90250582001532L106.19825085128274,-63.13542203967615A123.54816874401659,123.54816874401659,0,0,0,103.70206130564353,-67.15677539132258Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18359"><path d="M122.62717743291098,-72.90250582001532A142.6611369644866,142.6611369644866,0,0,1,125.32955655218535,-68.15205245942765L108.53857981923095,-59.021408749914066A123.54816874401659,123.54816874401659,0,0,0,106.19825085128274,-63.13542203967615Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18360"><path d="M125.32955655218535,-68.15205245942765A142.6611369644866,142.6611369644866,0,0,1,127.84799726447656,-63.30157656379813L110.71961345400011,-54.82077340385483A123.54816874401659,123.54816874401659,0,0,0,108.53857981923095,-59.021408749914066Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18361"><path d="M127.84799726447656,-63.30157656379813A142.6611369644866,142.6611369644866,0,0,1,130.17880341075045,-58.3581968753764L112.7381507879702,-50.53968101312961A123.54816874401659,123.54816874401659,0,0,0,110.71961345400011,-54.82077340385483Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18362"><path d="M130.17880341075045,-58.3581968753764A142.6611369644866,142.6611369644866,0,0,1,132.31855421157297,-53.32916848553923L114.5912293392506,-46.18441467117747A123.54816874401659,123.54816874401659,0,0,0,112.7381507879702,-50.53968101312961Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18364"><path d="M132.31855421157297,-53.32916848553923A142.6611369644866,142.6611369644866,0,0,1,134.2641092875757,-48.22187218694361L116.27612945953075,-41.76136633193942A123.54816874401659,123.54816874401659,0,0,0,114.5912293392506,-46.18441467117747Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18367"><path d="M134.2641092875757,-48.22187218694361A142.6611369644866,142.6611369644866,0,0,1,136.01261326839582,-43.04380364119558L117.79037832553917,-37.27702742878449A123.54816874401659,123.54816874401659,0,0,0,116.27612945953075,-41.76136633193942Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18369"><path d="M136.01261326839582,-43.04380364119558A142.6611369644866,142.6611369644866,0,0,1,137.56149998332552,-37.80256237793331L119.1317535682525,-32.737979347436124A123.54816874401659,123.54816874401659,0,0,0,117.79037832553917,-37.27702742878449Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18370"><path d="M137.56149998332552,-37.80256237793331A142.6611369644866,142.6611369644866,0,0,1,138.90849622752165,-32.50584064146932L120.29828653452861,-28.150883766881083A123.54816874401659,123.54816874401659,0,0,0,119.1317535682525,-32.737979347436124Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18376"><path d="M138.90849622752165,-32.50584064146932A142.6611369644866,142.6611369644866,0,0,1,140.05162509824737,-27.161412101361208L121.28826517637648,-23.522472882436876A123.54816874401659,123.54816874401659,0,0,0,120.29828653452861,-28.150883766881083Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18380"><path d="M140.05162509824737,-27.161412101361208A142.6611369644866,142.6611369644866,0,0,1,140.98920889624915,-21.77712044347962L122.10023656362274,-18.85953952532679A123.54816874401659,123.54816874401659,0,0,0,121.28826517637648,-23.522472882436876Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18381"><path d="M140.98920889624915,-21.77712044347962A142.6611369644866,142.6611369644866,0,0,1,141.7198715880122,-16.360867858317594L122.73300901628706,-14.168927193263338A123.54816874401659,123.54816874401659,0,0,0,122.10023656362274,-18.85953952532679Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18382"><path d="M141.7198715880122,-16.360867858317594A142.6611369644866,142.6611369644866,0,0,1,142.24254082527915,-10.920603443436317L123.18565385353688,-9.457520006671666A123.54816874401659,123.54816874401659,0,0,0,122.73300901628706,-14.168927193263338Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18383"><path d="M142.24254082527915,-10.920603443436317A142.6611369644866,142.6611369644866,0,0,1,142.55644951886904,-5.464311537068274L123.45750675665451,-4.732232605293518A123.54816874401659,123.54816874401659,0,0,0,123.18565385353688,-9.457520006671666Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18385"><path d="M142.55644951886904,-5.464311537068274A142.6611369644866,142.6611369644866,0,0,1,142.6611369644866,1.2670854318174082e-13L123.54816874401659,1.0973281727190506e-13A123.54816874401659,123.54816874401659,0,0,0,123.45750675665451,-4.732232605293518Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18389"><path d="M142.6611369644866,1.2670854318174082e-13A142.6611369644866,142.6611369644866,0,0,1,142.55644951886904,5.464311537068526L123.45750675665451,4.732232605293737A123.54816874401659,123.54816874401659,0,0,0,123.54816874401659,1.0973281727190506e-13Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18390"><path d="M142.55644951886904,5.464311537068526A142.6611369644866,142.6611369644866,0,0,1,142.24254082527912,10.920603443436569L123.18565385353685,9.457520006671885A123.54816874401659,123.54816874401659,0,0,0,123.45750675665451,4.732232605293737Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18391"><path d="M142.24254082527912,10.920603443436569A142.6611369644866,142.6611369644866,0,0,1,141.71987158801218,16.360867858317846L122.73300901628704,14.168927193263555A123.54816874401659,123.54816874401659,0,0,0,123.18565385353685,9.457520006671885Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18392"><path d="M141.71987158801218,16.360867858317846A142.6611369644866,142.6611369644866,0,0,1,140.98920889624912,21.77712044347987L122.1002365636227,18.859539525327005A123.54816874401659,123.54816874401659,0,0,0,122.73300901628704,14.168927193263555Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18706"><path d="M140.98920889624912,21.77712044347987A142.6611369644866,142.6611369644866,0,0,1,140.0516250982473,27.161412101361456L121.28826517637644,23.522472882437093A123.54816874401659,123.54816874401659,0,0,0,122.1002365636227,18.859539525327005Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=18716"><path d="M140.0516250982473,27.161412101361456A142.6611369644866,142.6611369644866,0,0,1,138.90849622752162,32.50584064146957L120.29828653452857,28.150883766881297A123.54816874401659,123.54816874401659,0,0,0,121.28826517637644,23.522472882437093Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=19192"><path d="M138.90849622752162,32.50584064146957A142.6611369644866,142.6611369644866,0,0,1,137.56149998332543,37.80256237793356L119.13175356825245,32.73797934743634A123.54816874401659,123.54816874401659,0,0,0,120.29828653452857,28.150883766881297Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=21004"><path d="M137.56149998332543,37.80256237793356A142.6611369644866,142.6611369644866,0,0,1,136.01261326839574,43.04380364119582L117.79037832553911,37.2770274287847A123.54816874401659,123.54816874401659,0,0,0,119.13175356825245,32.73797934743634Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=21071"><path d="M136.01261326839574,43.04380364119582A142.6611369644866,142.6611369644866,0,0,1,134.26410928757562,48.22187218694384L116.27612945953067,41.76136633193963A123.54816874401659,123.54816874401659,0,0,0,117.79037832553911,37.2770274287847Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=21084"><path d="M134.26410928757562,48.22187218694384A142.6611369644866,142.6611369644866,0,0,1,132.31855421157286,53.32916848553947L114.59122933925052,46.18441467117768A123.54816874401659,123.54816874401659,0,0,0,116.27612945953067,41.76136633193963Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=21085"><path d="M132.31855421157286,53.32916848553947A142.6611369644866,142.6611369644866,0,0,1,130.17880341075033,58.35819687537663L112.73815078797011,50.53968101312981A123.54816874401659,123.54816874401659,0,0,0,114.59122933925052,46.18441467117768Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=21327"><path d="M130.17880341075033,58.35819687537663A142.6611369644866,142.6611369644866,0,0,1,127.84799726447643,63.30157656379836L110.719613454,54.82077340385503A123.54816874401659,123.54816874401659,0,0,0,112.73815078797011,50.53968101312981Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=24540"><path d="M127.84799726447643,63.30157656379836A142.6611369644866,142.6611369644866,0,0,1,125.32955655218522,68.15205245942786L108.53857981923083,59.02140874991426A123.54816874401659,123.54816874401659,0,0,0,110.719613454,54.82077340385503Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=24722"><path d="M125.32955655218522,68.15205245942786A142.6611369644866,142.6611369644866,0,0,1,122.62717743291086,72.90250582001552L106.19825085128262,63.13542203967633A123.54816874401659,123.54816874401659,0,0,0,108.53857981923083,59.02140874991426Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=24771"><path d="M122.62717743291086,72.90250582001552A142.6611369644866,142.6611369644866,0,0,1,119.74482602066459,77.54596470017488L103.7020613056434,67.15677539132277A123.54816874401659,123.54816874401659,0,0,0,106.19825085128262,63.13542203967633Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=26805"><path d="M119.74482602066459,77.54596470017488A142.6611369644866,142.6611369644866,0,0,1,116.6867325636155,82.07561418367382L101.0536746846919,71.07956691427191A123.54816874401659,123.54816874401659,0,0,0,103.7020613056434,67.15677539132277Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?contenido=26809"><path d="M116.6867325636155,82.07561418367382A142.6611369644866,142.6611369644866,0,0,1,113.45738523561789,86.48480638526398L98.25697786100258,74.89803937101723A123.54816874401659,123.54816874401659,0,0,0,101.0536746846919,71.07956691427191Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet?imprimir=true"><path d="M113.45738523561789,86.48480638526398A142.6611369644866,142.6611369644866,0,0,1,110.0615235491974,90.76707020736907L95.31607537282419,78.60658862666729A123.54816874401659,123.54816874401659,0,0,0,98.25697786100258,74.89803937101723Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/goodnews"><path d="M110.0615235491974,90.76707020736907A142.6611369644866,142.6611369644866,0,0,1,106.50413139966268,94.91612083731293L92.23528340010378,82.19977187378649A123.54816874401659,123.54816874401659,0,0,0,95.31607537282419,78.60658862666729Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/martadefox"><path d="M106.50413139966268,94.91612083731293A142.6611369644866,142.6611369644866,0,0,1,102.79042975055175,98.92586897114872L89.01912342989755,85.67231562046554A123.54816874401659,123.54816874401659,0,0,0,92.23528340010378,82.19977187378649Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/mexico"><path d="M102.79042975055175,98.92586897114872A142.6611369644866,142.6611369644866,0,0,1,98.92586897114816,102.79042975055228L85.67231562046506,89.019123429898A123.54816874401659,123.54816874401659,0,0,0,89.01912342989755,85.67231562046554Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/multimedia"><path d="M98.92586897114816,102.79042975055228A142.6611369644866,142.6611369644866,0,0,1,94.91612083731238,106.50413139966317L82.199771873786,92.2352834001042A123.54816874401659,123.54816874401659,0,0,0,85.67231562046506,89.019123429898Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/search?palabras=gray+davis&amp;x=0&amp;y=0"><path d="M94.91612083731238,106.50413139966317A142.6611369644866,142.6611369644866,0,0,1,90.76707020736849,110.06152354919789L78.60658862666678,95.31607537282459A123.54816874401659,123.54816874401659,0,0,0,82.199771873786,92.2352834001042Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/technology"><path d="M90.76707020736849,110.06152354919789A142.6611369644866,142.6611369644866,0,0,1,86.4848063852634,113.45738523561833L74.89803937101672,98.25697786100297A123.54816874401659,123.54816874401659,0,0,0,78.60658862666678,95.31607537282459Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/vicentefox?contenido=17322"><path d="M86.4848063852634,113.45738523561833A142.6611369644866,142.6611369644866,0,0,1,82.0756141836732,116.68673256361592L71.07956691427138,101.05367468469227A123.54816874401659,123.54816874401659,0,0,0,74.89803937101672,98.25697786100297Z" fill-rule="evenodd" style="fill: rgb(251, 154, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/?contenido=15346"><path d="M82.07561418367351,116.68673256361569A142.6611369644866,142.6611369644866,0,0,1,77.54596470017458,119.7448260206648L67.15677539132251,103.70206130564358A123.54816874401659,123.54816874401659,0,0,0,71.07956691427165,101.05367468469208Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/buengobierno"><path d="M77.54596470017458,119.7448260206648A142.6611369644866,142.6611369644866,0,0,1,72.90250582001521,122.62717743291105L63.13542203967606,106.19825085128278A123.54816874401659,123.54816874401659,0,0,0,67.15677539132251,103.70206130564358Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=27848"><path d="M72.90250582001521,122.62717743291105A142.6611369644866,142.6611369644866,0,0,1,68.15205245942754,125.3295565521854L59.02140874991398,108.53857981923099A123.54816874401659,123.54816874401659,0,0,0,63.13542203967606,106.19825085128278Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=27850"><path d="M68.15205245942754,125.3295565521854A142.6611369644866,142.6611369644866,0,0,1,63.30157656379803,127.8479972644766L54.820773403854744,110.71961345400015A123.54816874401659,123.54816874401659,0,0,0,59.02140874991398,108.53857981923099Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=28199"><path d="M63.30157656379803,127.8479972644766A142.6611369644866,142.6611369644866,0,0,1,58.35819687537629,130.17880341075048L50.53968101312951,112.73815078797024A123.54816874401659,123.54816874401659,0,0,0,54.820773403854744,110.71961345400015Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/buengobierno?contenido=28215"><path d="M58.35819687537629,130.17880341075048A142.6611369644866,142.6611369644866,0,0,1,53.32916848553913,132.318554211573L46.18441467117738,114.59122933925063A123.54816874401659,123.54816874401659,0,0,0,50.53968101312951,112.73815078797024Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/comunicados"><path d="M53.32916848553913,132.318554211573A142.6611369644866,142.6611369644866,0,0,1,48.22187218694349,134.26410928757576L41.76136633193933,116.27612945953078A123.54816874401659,123.54816874401659,0,0,0,46.18441467117738,114.59122933925063Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/conferencias"><path d="M48.22187218694349,134.26410928757576A142.6611369644866,142.6611369644866,0,0,1,43.043803641195474,136.01261326839585L37.27702742878439,117.7903783255392A123.54816874401659,123.54816874401659,0,0,0,41.76136633193933,116.27612945953078Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/crecimiento"><path d="M43.043803641195474,136.01261326839585A142.6611369644866,142.6611369644866,0,0,1,37.80256237793321,137.56149998332555L32.73797934743603,119.13175356825253A123.54816874401659,123.54816874401659,0,0,0,37.27702742878439,117.7903783255392Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/crecimiento?contenido=28356"><path d="M37.80256237793321,137.56149998332555A142.6611369644866,142.6611369644866,0,0,1,32.505840641469206,138.9084962275217L28.150883766880984,120.29828653452864A123.54816874401659,123.54816874401659,0,0,0,32.73797934743603,119.13175356825253Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/crecimiento?contenido=28365"><path d="M32.505840641469206,138.9084962275217A142.6611369644866,142.6611369644866,0,0,1,27.161412101361094,140.05162509824737L23.522472882436777,121.2882651763765A123.54816874401659,123.54816874401659,0,0,0,28.150883766880984,120.29828653452864Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/crecimiento?contenido=28425"><path d="M27.161412101361094,140.05162509824737A142.6611369644866,142.6611369644866,0,0,1,21.7771204434795,140.98920889624918L18.85953952532669,122.10023656362276A123.54816874401659,123.54816874401659,0,0,0,23.522472882436777,121.2882651763765Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/crecimiento?contenido=28427"><path d="M21.7771204434795,140.98920889624918A142.6611369644866,142.6611369644866,0,0,1,16.360867858317476,141.71987158801224L14.168927193263237,122.73300901628707A123.54816874401659,123.54816874401659,0,0,0,18.85953952532669,122.10023656362276Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/desarrollo"><path d="M16.360867858317476,141.71987158801224A142.6611369644866,142.6611369644866,0,0,1,10.9206034434362,142.24254082527915L9.457520006671565,123.18565385353688A123.54816874401659,123.54816874401659,0,0,0,14.168927193263237,122.73300901628707Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/desarrollo?contenido=28415"><path d="M10.9206034434362,142.24254082527915A142.6611369644866,142.6611369644866,0,0,1,5.464311537068156,142.55644951886907L4.732232605293416,123.45750675665452A123.54816874401659,123.54816874401659,0,0,0,9.457520006671565,123.18565385353688Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/desarrollo?contenido=28417"><path d="M5.464311537068156,142.55644951886907A142.6611369644866,142.6611369644866,0,0,1,-2.446816111261676e-13,142.6611369644866L-2.1190049107416628e-13,123.54816874401659A123.54816874401659,123.54816874401659,0,0,0,4.732232605293416,123.45750675665452Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/desarrollo?contenido=28420"><path d="M-2.446816111261676e-13,142.6611369644866A142.6611369644866,142.6611369644866,0,0,1,-5.464311537068645,142.55644951886904L-4.732232605293839,123.45750675665451A123.54816874401659,123.54816874401659,0,0,0,-2.1190049107416628e-13,123.54816874401659Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/desarrollo?contenido=28429"><path d="M-5.464311537068645,142.55644951886904A142.6611369644866,142.6611369644866,0,0,1,-10.920603443436686,142.24254082527912L-9.457520006671986,123.18565385353685A123.54816874401659,123.54816874401659,0,0,0,-4.732232605293839,123.45750675665451Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/discursos"><path d="M-10.920603443436686,142.24254082527912A142.6611369644866,142.6611369644866,0,0,1,-16.360867858317963,141.71987158801215L-14.168927193263656,122.73300901628703A123.54816874401659,123.54816874401659,0,0,0,-9.457520006671986,123.18565385353685Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/entrevistas"><path d="M-16.360867858317963,141.71987158801215A142.6611369644866,142.6611369644866,0,0,1,-21.777120443479983,140.9892088962491L-18.859539525327104,122.10023656362269A123.54816874401659,123.54816874401659,0,0,0,-14.168927193263656,122.73300901628703Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/girasinternacionales"><path d="M-21.777120443479983,140.9892088962491A142.6611369644866,142.6611369644866,0,0,1,-27.161412101361574,140.05162509824729L-23.522472882437192,121.28826517637641A123.54816874401659,123.54816874401659,0,0,0,-18.859539525327104,122.10023656362269Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/girasnacionales"><path d="M-27.161412101361574,140.05162509824729A142.6611369644866,142.6611369644866,0,0,1,-32.50584064146968,138.9084962275216L-28.150883766881396,120.29828653452854A123.54816874401659,123.54816874401659,0,0,0,-23.522472882437192,121.28826517637641Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/index.php?contenido=15533"><path d="M-32.50584064146968,138.9084962275216A142.6611369644866,142.6611369644866,0,0,1,-37.80256237793367,137.5614999833254L-32.737979347436436,119.13175356825242A123.54816874401659,123.54816874401659,0,0,0,-28.150883766881396,120.29828653452854Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/orden"><path d="M-37.80256237793367,137.5614999833254A142.6611369644866,142.6611369644866,0,0,1,-43.043803641195936,136.0126132683957L-37.2770274287848,117.79037832553908A123.54816874401659,123.54816874401659,0,0,0,-32.737979347436436,119.13175356825242Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/orden?contenido=28376"><path d="M-43.043803641195936,136.0126132683957A142.6611369644866,142.6611369644866,0,0,1,-48.221872186943955,134.2641092875756L-41.761366331939726,116.27612945953064A123.54816874401659,123.54816874401659,0,0,0,-37.2770274287848,117.79037832553908Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/orden?contenido=28413"><path d="M-48.221872186943955,134.2641092875756A142.6611369644866,142.6611369644866,0,0,1,-53.329168485539576,132.31855421157283L-46.18441467117777,114.59122933925048A123.54816874401659,123.54816874401659,0,0,0,-41.761366331939726,116.27612945953064Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/orden?contenido=28419"><path d="M-53.329168485539576,132.31855421157283A142.6611369644866,142.6611369644866,0,0,1,-58.358196875376734,130.17880341075028L-50.53968101312989,112.73815078797006A123.54816874401659,123.54816874401659,0,0,0,-46.18441467117777,114.59122933925048Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/orden?contenido=28424"><path d="M-58.358196875376734,130.17880341075028A142.6611369644866,142.6611369644866,0,0,1,-63.30157656379846,127.84799726447639L-54.82077340385512,110.71961345399995A123.54816874401659,123.54816874401659,0,0,0,-50.53968101312989,112.73815078797006Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/visitadeestado"><path d="M-63.30157656379846,127.84799726447639A142.6611369644866,142.6611369644866,0,0,1,-68.15205245942798,125.32955655218515L-59.02140874991435,108.53857981923078A123.54816874401659,123.54816874401659,0,0,0,-54.82077340385512,110.71961345399995Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/visitadetrabajo"><path d="M-68.15205245942798,125.32955655218515A142.6611369644866,142.6611369644866,0,0,1,-72.90250582001563,122.6271774329108L-63.13542203967643,106.19825085128257A123.54816874401659,123.54816874401659,0,0,0,-59.02140874991435,108.53857981923078Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/visitainternacional"><path d="M-72.90250582001563,122.6271774329108A142.6611369644866,142.6611369644866,0,0,1,-77.54596470017499,119.74482602066453L-67.15677539132287,103.70206130564334A123.54816874401659,123.54816874401659,0,0,0,-63.13542203967643,106.19825085128257Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/visitaoficial"><path d="M-77.54596470017499,119.74482602066453A142.6611369644866,142.6611369644866,0,0,1,-82.0756141836739,116.68673256361541L-71.079566914272,101.05367468469184A123.54816874401659,123.54816874401659,0,0,0,-67.15677539132287,103.70206130564334Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/actividades/visitaoficialdetrabajo"><path d="M-82.0756141836739,116.68673256361541A142.6611369644866,142.6611369644866,0,0,1,-86.48480638526406,113.45738523561782L-74.8980393710173,98.25697786100253A123.54816874401659,123.54816874401659,0,0,0,-71.079566914272,101.05367468469184Z" fill-rule="evenodd" style="fill: rgb(51, 160, 44); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/buengobierno?contenido=28410"><path d="M-86.48480638526377,113.45738523561805A142.6611369644866,142.6611369644866,0,0,1,-90.76707020736887,110.06152354919756L-78.6065886266671,95.31607537282432A123.54816874401659,123.54816874401659,0,0,0,-74.89803937101705,98.25697786100272Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/ciencia?contenido=28430"><path d="M-90.76707020736887,110.06152354919756A142.6611369644866,142.6611369644866,0,0,1,-94.91612083731273,106.50413139966285L-82.19977187378633,92.23528340010392A123.54816874401659,123.54816874401659,0,0,0,-78.6065886266671,95.31607537282432Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/comentarios"><path d="M-94.91612083731273,106.50413139966285A142.6611369644866,142.6611369644866,0,0,1,-98.92586897114853,102.79042975055195L-85.67231562046537,89.01912342989772A123.54816874401659,123.54816874401659,0,0,0,-82.19977187378633,92.23528340010392Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/cultura?contenido=28432"><path d="M-98.92586897114853,102.79042975055195A142.6611369644866,142.6611369644866,0,0,1,-102.79042975055211,98.92586897114836L-89.01912342989785,85.67231562046521A123.54816874401659,123.54816874401659,0,0,0,-85.67231562046537,89.01912342989772Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/economia"><path d="M-102.79042975055211,98.92586897114836A142.6611369644866,142.6611369644866,0,0,1,-106.504131399663,94.91612083731256L-92.23528340010405,82.19977187378618A123.54816874401659,123.54816874401659,0,0,0,-89.01912342989785,85.67231562046521Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/economia?contenido=28412"><path d="M-106.504131399663,94.91612083731256A142.6611369644866,142.6611369644866,0,0,1,-110.06152354919772,90.76707020736869L-95.31607537282444,78.60658862666696A123.54816874401659,123.54816874401659,0,0,0,-92.23528340010405,82.19977187378618Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/enviar"><path d="M-110.06152354919772,90.76707020736869A142.6611369644866,142.6611369644866,0,0,1,-113.45738523561818,86.4848063852636L-98.25697786100284,74.89803937101689A123.54816874401659,123.54816874401659,0,0,0,-95.31607537282444,78.60658862666696Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/historico"><path d="M-113.45738523561818,86.4848063852636A142.6611369644866,142.6611369644866,0,0,1,-116.68673256361576,82.07561418367342L-101.05367468469214,71.07956691427157A123.54816874401659,123.54816874401659,0,0,0,-98.25697786100284,74.89803937101689Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/infraestructura"><path d="M-116.68673256361576,82.07561418367342A142.6611369644866,142.6611369644866,0,0,1,-119.74482602066486,77.54596470017448L-103.70206130564364,67.15677539132243A123.54816874401659,123.54816874401659,0,0,0,-101.05367468469214,71.07956691427157Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/infraestructura?contenido=28431"><path d="M-119.74482602066486,77.54596470017448A142.6611369644866,142.6611369644866,0,0,1,-122.62717743291111,72.90250582001511L-106.19825085128284,63.13542203967597A123.54816874401659,123.54816874401659,0,0,0,-103.70206130564364,67.15677539132243Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/pobreza"><path d="M-122.62717743291111,72.90250582001511A142.6611369644866,142.6611369644866,0,0,1,-125.32955655218547,68.15205245942744L-108.53857981923105,59.02140874991388A123.54816874401659,123.54816874401659,0,0,0,-106.19825085128284,63.13542203967597Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/buenasnoticias/tupagina"><path d="M-125.32955655218547,68.15205245942744A142.6611369644866,142.6611369644866,0,0,1,-127.84799726447666,63.30157656379793L-110.7196134540002,54.82077340385465A123.54816874401659,123.54816874401659,0,0,0,-108.53857981923105,59.02140874991388Z" fill-rule="evenodd" style="fill: rgb(178, 223, 138); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico/gobernantes"><path d="M-127.8479972644766,63.30157656379804A142.6611369644866,142.6611369644866,0,0,1,-130.17880341075048,58.358196875376294L-112.73815078797024,50.53968101312952A123.54816874401659,123.54816874401659,0,0,0,-110.71961345400015,54.82077340385475Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico/sabiasque"><path d="M-130.17880341075048,58.358196875376294A142.6611369644866,142.6611369644866,0,0,1,-132.318554211573,53.329168485539135L-114.59122933925063,46.184414671177386A123.54816874401659,123.54816874401659,0,0,0,-112.73815078797024,50.53968101312952Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/mexico/sabiasque?contenido=20022&amp;pagina=4"><path d="M-132.318554211573,53.329168485539135A142.6611369644866,142.6611369644866,0,0,1,-134.26410928757576,48.2218721869435L-116.27612945953078,41.761366331939335A123.54816874401659,123.54816874401659,0,0,0,-114.59122933925063,46.184414671177386Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/acciones/flvplayer.swf?autostart=false&amp;clicktext=ver%20video&amp;file=http:"><path d="M-134.26410928757576,48.2218721869435A142.6611369644866,142.6611369644866,0,0,1,-136.01261326839585,43.04380364119548L-117.7903783255392,37.2770274287844A123.54816874401659,123.54816874401659,0,0,0,-116.27612945953078,41.761366331939335Z" fill-rule="evenodd" style="fill: rgb(106, 61, 154); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/cambio/transparencia"><path d="M-140.0516250982473,-27.161412101361563A142.6611369644866,142.6611369644866,0,0,1,-138.9084962275216,-32.505840641469675L-120.29828653452854,-28.15088376688139A123.54816874401659,123.54816874401659,0,0,0,-121.28826517637643,-23.522472882437185Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/images/principal"><path d="M-116.68673256361542,-82.0756141836739A142.6611369644866,142.6611369644866,0,0,1,-113.45738523561782,-86.48480638526406L-98.25697786100253,-74.8980393710173A123.54816874401659,123.54816874401659,0,0,0,-101.05367468469184,-71.079566914272Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/multimedia/videos"><path d="M-77.54596470017417,-119.74482602066507A142.6611369644866,142.6611369644866,0,0,1,-72.9025058200148,-122.6271774329113L-63.135422039675696,-106.198250851283A123.54816874401659,123.54816874401659,0,0,0,-67.15677539132214,-103.70206130564381Z" fill-rule="evenodd" style="fill: rgb(202, 178, 214); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/pages/f_ind_sp.html"><path d="M-72.9025058200148,-122.6271774329113A142.6611369644866,142.6611369644866,0,0,1,-68.15205245942711,-125.32955655218564L-59.021408749913604,-108.53857981923119A123.54816874401659,123.54816874401659,0,0,0,-63.135422039675696,-106.198250851283Z" fill-rule="evenodd" style="fill: rgb(255, 255, 153); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/vicentefox/?contenido=15063&amp;lang=es"><path d="M-5.464311537067667,-142.5564495188691A142.6611369644866,142.6611369644866,0,0,1,7.340448333785029e-13,-142.6611369644866L6.357014732224989e-13,-123.54816874401659A123.54816874401659,123.54816874401659,0,0,0,-4.732232605292992,-123.45750675665454Z" fill-rule="evenodd" style="fill: rgb(227, 26, 28); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/development"><path d="M9.766558223200142e-15,-159.5A159.5,159.5,0,0,1,6.109286023560661,-159.3829558776042L5.464311537068408,-142.55644951886904A142.6611369644866,142.6611369644866,0,0,0,8.735475237314033e-15,-142.6611369644866Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/extended"><path d="M6.109286023560661,-159.3829558776042A159.5,159.5,0,0,1,12.209605827421058,-159.0319952888066L10.920603443436422,-142.24254082527915A142.6611369644866,142.6611369644866,0,0,0,5.464311537068408,-142.55644951886904Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/growth"><path d="M12.209605827421058,-159.0319952888066A159.5,159.5,0,0,1,18.292006351044883,-158.44763331666817L16.360867858317697,-141.7198715880122A142.6611369644866,142.6611369644866,0,0,0,10.920603443436422,-142.24254082527915Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/official"><path d="M18.292006351044883,-158.44763331666817A159.5,159.5,0,0,1,24.347560832910478,-157.6307275929656L21.777120443479692,-140.98920889624915A142.6611369644866,142.6611369644866,0,0,0,16.360867858317697,-141.7198715880122Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/order"><path d="M24.347560832910478,-157.6307275929656A159.5,159.5,0,0,1,30.367381911764614,-156.58247703949837L27.16141210136128,-140.05162509824734A142.6611369644866,142.6611369644866,0,0,0,21.777120443479692,-140.98920889624915Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/cabinet/others"><path d="M30.367381911764614,-156.58247703949837A159.5,159.5,0,0,1,36.342634670050465,-155.30442010850575L32.50584064146939,-138.90849622752165A142.6611369644866,142.6611369644866,0,0,0,27.16141210136128,-140.05162509824734Z" fill-rule="evenodd" style="fill: rgb(253, 191, 111); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/en/activities/speeches"><path d="M36.342634670050465,-155.30442010850575A159.5,159.5,0,0,1,42.26454960036757,-153.798432524776L37.802562377933384,-137.5614999833255A142.6611369644866,142.6611369644866,0,0,0,32.50584064146939,-138.90849622752165Z" fill-rule="evenodd" style="fill: rgb(177, 89, 40); opacity: 1; cursor: pointer;"></path></a><a xlink:href="https://web.archive.org/web/20190630/fox.presidencia.gob.mx/images/principal/25688.jpg"><path d="M-130.4597330422912,-91.76332630487039A159.5,159.5,0,0,1,-126.84921296811122,-96.69295304917917L-113.45738523561782,-86.48480638526406A142.6611369644866,142.6611369644866,0,0,0,-116.68673256361542,-82.0756141836739Z" fill-rule="evenodd" style="fill: rgb(255, 127, 0); opacity: 1; cursor: pointer;"></path></a></g></svg></div></div></div></div><div class="wbs__web_footer"><a class="footer-item" href="https://archive.org/about/faqs.php#The_Wayback_Machine">FAQ</a> | <a class="footer-item" href="https://archive.org/about/contact.php">Contact Us</a> | <a class="footer-item" href="https://archive.org/about/terms.php">Terms of Service (Dec 31, 2014)</a></div></div>
+    <noscript>
+      <div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+    </noscript>
+    <footer>
+      <div id="footerHome">
+        <p>
+          The Wayback Machine is an initiative of the
+          <a href="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br>Other <a href="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org">archive-it.org</a>.
+        </p>
+        <p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+      </div>
+    </footer>
+
+</body></html>
